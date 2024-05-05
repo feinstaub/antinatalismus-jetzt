@@ -1,11 +1,11 @@
 +++
-title = 'Antinatalismus Jetzt: Hallo 🙂'
+title = 'Antinatalismus Jetzt 🙂'
 images = ['images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px.jpg']
 +++
 
-# Antinatalismus Jetzt: Hallo 🙂
+# Hallo auf Antinatalismus Jetzt 🙂
 
-Hallo und herzlich Willkommen auf **Antinatalismus Jetzt**.
+Hallo und herzlich Willkommen auf 💚 **Antinatalismus Jetzt**.
 
 Antinatalismus Jetzt ist ein Projekt zur Aufklärung und Verbreitung der antinatalistischen Philosophie im deutschsprachigen Raum.
 
