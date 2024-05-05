@@ -68,6 +68,7 @@ Mit diesen Seiten möchten wir dazu beitragen, Antinatalismus als selbstverstän
 
 Weiter mit:
 
+* [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
 * [Antinatalistische Argumente](../antinatalistische-argumente)
 * [Pronatalistische Ausreden 😇](../pronatalistische-ausreden)
 * [Häufige Fragen (FAQ)](../faq)

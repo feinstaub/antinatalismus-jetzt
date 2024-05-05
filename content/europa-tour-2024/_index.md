@@ -1,7 +1,7 @@
 +++
 menus = 'main'
 title = 'Europa-Tour 2024'
-weight = 2
+weight = 10
 type = 'docs'
 +++
 
