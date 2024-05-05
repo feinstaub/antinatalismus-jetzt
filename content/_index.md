@@ -1,11 +1,11 @@
 +++
-title = 'Antinatalismus Jetzt 🙂'
+title = 'Start 🙂'
 images = ['images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px.jpg']
 +++
 
-# Hallo auf Antinatalismus Jetzt 🙂
+#  🙂 Hallo auf Antinatalismus Jetzt.
 
-Hallo und herzlich Willkommen auf 💚 **Antinatalismus Jetzt**.
+Hallo und herzlich Willkommen auf 💚 **Antinatalismus Jetzt.**
 
 Antinatalismus Jetzt ist ein Projekt zur Aufklärung und Verbreitung der antinatalistischen Philosophie im deutschsprachigen Raum.
 
@@ -16,7 +16,7 @@ Antinatalismus Jetzt ist ein Projekt zur Aufklärung und Verbreitung der antinat
 
 Auf diesen Seiten möchten wir dir die Position des Antinatalismus näherbringen. Diese hat auf individueller Ebene eine einfache Konsequenz:
 
-**Freiwillig auf die eigene Fortpflanzung verzichten.**
+💚 **Freiwillig auf die eigene Fortpflanzung verzichten.**
 
 * Weiterlesen: [Was ist Antinatalismus?](antinatalismus-definition) und [Antinatalismus-Ressourcen](antinatalismus-ressourcen)
 
