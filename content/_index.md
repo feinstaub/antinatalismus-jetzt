@@ -1,5 +1,6 @@
 +++
 title = 'Antinatalismus Jetzt: Hallo 🙂'
+images = ['images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px.jpg']
 +++
 
 # Antinatalismus Jetzt: Hallo 🙂
