@@ -1,0 +1,16 @@
+[build]
+  command = "hugo"
+  functions = "netlify/functions"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.125.0"
+
+# [[plugins]]
+#   package = "netlify-plugin-cypress"
+#
+#   [plugins.inputs.postBuild]
+#     enable = true
+#
+#   [plugins.inputs]
+#     enable = false
