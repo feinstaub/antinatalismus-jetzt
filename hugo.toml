@@ -1,4 +1,5 @@
-baseURL = 'https://antinatalismus-jetzt.netlify.app/'
+#baseURL = 'https://antinatalismus-jetzt.netlify.app/'
+baseURL = 'https://antinatalismus-jetzt.de/'
 languageCode = 'de-de'
 title = 'Antinatalismus Jetzt.'
 
