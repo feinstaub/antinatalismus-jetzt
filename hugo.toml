@@ -13,6 +13,10 @@ theme = 'hugo-book'
 #[[module.imports]]
 #path = 'github.com/gethinode/hinode'
 
+## does not work yet
+BookRepo = 'https://github.com/feinstaub/antinatalismus-jetzt'
+BookCommitPath = 'commit'
+
 ## https://github.com/alex-shpak/hugo-book
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
