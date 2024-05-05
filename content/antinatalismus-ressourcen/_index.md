@@ -19,15 +19,6 @@ Wir unterscheiden vier Kategorien:
     ein erfülltes Leben zu führen, auch ohne sich fortzupflanzen. Auch feministische
 
 
-## Deutschsprachige Ressourcen
-
-* https://www.pro-iure-animalis.de/index.php/antinatalismus/articles/was-ist-antinatalismus.html
-
-* https://albatros-buch.de/shop/item/9783346771261/antinatalismus-im-lichte-des-klimawandels-von-clara-kongeter-kartoniertes-buch
-
-* https://literaturkritik.de/antinatalismus-natuerliche-verbuendete,25592.html
-
-
 ## Englischsprachige Ressourcen
 
 * (Ethik) [YouTube-Kanal von **tofudog**](https://www.youtube.com/@tofudog4u),
@@ -36,6 +27,17 @@ Wir unterscheiden vier Kategorien:
     * "Talking to a Student About Antinatalism (Is it Wrong to Create New People?) | **Antinatalist Outreach**"
 
 * (Ethik) [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton)
+
+
+## Deutschsprachige Ressourcen
+
+* Diese Webseite :-) https://antinatalismus-jetzt.netlify.app/
+
+* https://www.pro-iure-animalis.de/index.php/antinatalismus/articles/was-ist-antinatalismus.html
+
+* https://albatros-buch.de/shop/item/9783346771261/antinatalismus-im-lichte-des-klimawandels-von-clara-kongeter-kartoniertes-buch
+
+* https://literaturkritik.de/antinatalismus-natuerliche-verbuendete,25592.html
 
 
 ## Medien-Resonanz, deutsch
