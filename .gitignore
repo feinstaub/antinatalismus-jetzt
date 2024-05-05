@@ -1,0 +1,5 @@
+*.lock
+public/
+go.sum
+resources/_gen/
+
