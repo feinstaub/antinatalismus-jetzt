@@ -3,7 +3,7 @@ title = 'Start 🙂'
 images = ['images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px.jpg']
 +++
 
-#  🙂 Hallo auf Antinatalismus Jetzt.
+#  Willkommen auf Antinatalismus Jetzt.
 
 Hallo und herzlich Willkommen auf 💚 **Antinatalismus Jetzt.**
 
@@ -14,10 +14,13 @@ Antinatalismus Jetzt ist ein Projekt zur Aufklärung und Verbreitung der antinat
 
 ![](images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px-crop.jpg)
 
-Auf diesen Seiten möchten wir dir die Position des Antinatalismus näherbringen. Diese hat auf individueller Ebene eine einfache Konsequenz:
+Auf diesen Seiten möchten wir dich mit der Position des Antinatalismus vertraut machen. Auf individueller Ebene gibt es eine einfache Konsequenz:
 
 💚 **Freiwillig auf die eigene Fortpflanzung verzichten.**
 
-* Weiterlesen: [Was ist Antinatalismus?](antinatalismus-definition) und [Antinatalismus-Ressourcen](antinatalismus-ressourcen)
 
+Weiterlesen:
+
+* [Was ist Antinatalismus?](antinatalismus-definition)
+* [Antinatalismus-Ressourcen](antinatalismus-ressourcen)
 * AKTUELL: [Antinatalismus-Europa-Tour 2024](europa-tour-2024) - Komm und mach mit :)
