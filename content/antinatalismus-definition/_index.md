@@ -5,9 +5,11 @@ weight = 1
 type = 'docs'
 +++
 
+[Zurück zur Startseite](..)
+
 # Was ist Antinatalismus?
 
-Allgemein werden als Antinatalismus Positionen bezeichnet, die sich für die freiwillige Kinderlosigkeit aussprechen.
+Allgemein werden als Antinatalismus Positionen bezeichnet, die sich für die **freiwillige Kinderlosigkeit** aussprechen.
 
 Nachlesen kann man dies hier: https://de.wikipedia.org/wiki/Antinatalismus
 
@@ -62,3 +64,10 @@ Antinatalismus basiert auf Rationalität und Mitgefühl und in diesem Sinne soll
 Sich dafür einsetzen, das Leben für uns und die anderen Tiere so gut wie möglich zu gestalten. Unrecht auf allen Ebenen erkennen und bekämpfen.
 
 Mit diesen Seiten möchten wir dazu beitragen, Antinatalismus als selbstverständliche Idee in der Gesellschaft zu verankern.
+
+
+Weiter mit:
+
+* [Antinatalistische Argumente](../antinatalistische-argumente)
+* [Pronatalistische Ausreden 😇](../pronatalistische-ausreden)
+* [Häufige Fragen (FAQ)](../faq)

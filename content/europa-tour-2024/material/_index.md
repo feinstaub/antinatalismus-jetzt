@@ -3,6 +3,7 @@ menus = 'main'
 title = 'Material'
 weight = 2
 type = 'docs'
+bookHidden = true
 +++
 
 Übersicht A3-Ausdrucke:

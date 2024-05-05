@@ -1,7 +1,7 @@
 +++
 menus = 'main'
 title = 'Kontakt'
-weight = 5
+weight = 7
 type = 'docs'
 #bookFlatSection = true
 +++
