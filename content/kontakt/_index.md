@@ -8,11 +8,9 @@ type = 'docs'
 
 ## Kontakt
 
-Das Team Deutschland ist noch im Aufbau.
+Das Team Deutschland ist im Aufbau.
 
-Vorläufig erreichst du uns unter der E-Mail-Adresse: codestruct@posteo.org
-
-Ansprechperson ist Gregor.
+Vorläufig erreichst du uns per [E-Mail](codestruct@posteo.org). Ansprechperson ist Gregor.
 
 Schreib uns gerne für alle Fragen, die die Webseite nicht beantworten konnte.
 
