@@ -6,7 +6,9 @@ weight = 22
 
 # Häufige Fragen zum Antinatalismus
 
-## 🔹 Sollen Eltern mit selbst gezeugten Kindern ihre Entscheidung bedauern?
+## Eltern und Kinderwunsch
+
+### 🔹 Sollen Eltern mit selbst gezeugten Kindern ihre Entscheidung bedauern?
 
 Auch wenn wir glauben, dass es die moralisch bessere Entscheidung ist, keine Kinder zu zeugen,
 soll es Eltern mit selbst gezeugten Kindern nicht schwerer gemacht werden, als es ohnehin schon ist.
@@ -19,7 +21,7 @@ in zukünftige Fortpflanzungsentscheidungen einfließen werden
 und die Argumente an andere Menschen weitergegeben werden. 🙂
 
 
-## 🔹 Ich möchte gerne eine eigene Familie haben und Kinder erziehen.
+### 🔹 Ich möchte gerne eine eigene Familie haben und Kinder erziehen.
 
 Wenn eine eigene Familie und Kindererziehung gewünscht ist, dann ist
 die **Adoption** ([Websuche](https://www.qwant.com/?q=adoption+in+deutschland&t=web))
@@ -27,16 +29,32 @@ von bereits vorhandenen Kindern ein möglicher - wenn auch schwierigerer - Weg,
 dies ohne eigene Fortpflanzung zu erreichen.
 
 
-## 🔹 FAQ bei der Voluntary Human Extinction Movement
+## Gesellschaft
 
-Weitere Fragen und Antworten gibt es bei der
+### Wer bezahlt meine Rente, wenn es immer weniger Kinder gibt?
 
-_Bewegung für das freiwillige Aussterben der Menschheit_
+Die Sparkassenwerbung aus dem Jahr 1998 sagt prägnant, was davon zu halten ist:
 
-(The Voluntary Human Extinction Movement, VHEMT)
+{{< youtube ziC0Gdbx9HU >}}
 
-mit dem Motto: “Mögen wir lange leben und aussterben”
+Nämlich, dass Kinder nicht Mittel zu einem (eigennützigen) Zweck sein sollen.
+
+Die Menschen sind kreativ und wenn genug Menschen die Idee der freiwilligen Kinderlosigkeit
+übernehmen, so dass praktische Auswirkungen absehbar sind, werden Lösungen gefunden werden.
+
+
+## Fokus Umwelt und andere Tiere
+
+### 🔹 FAQ der Voluntary Human Extinction Movement
+
+Die _Bewegung für das freiwillige Aussterben der Menschheit_
+(The Voluntary Human Extinction Movement, [VHEMT](https://www.vhemt.org))
+hat das Motto: “Mögen wir lange leben und aussterben”.
+
+Der Fokus deren Betrachtung liegt auf der Auswirkung der Menschen auf die Umwelt
+und Ökosphäre; weniger auf dem Unrecht gegenüber dem Individuum ungefragt in die Welt
+geholt worden zu sein.
 
 ![](https://www.vhemt.org/vhemt.gif)
 
-Hier geht es zu den Fragen: https://www.vhemt.org/dindex.htm
+Hier geht es zu den Fragen auf der VHEMT-Webseite: https://www.vhemt.org/dindex.htm
