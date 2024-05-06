@@ -36,4 +36,4 @@ Veganer Döner in Stuttgart
 
 ## Material
 
-[Material-Download](material)
+[Material-Download](../material)

@@ -1,14 +1,14 @@
 +++
 menus = 'main'
 title = 'Material'
-weight = 2
+weight = 25
 type = 'docs'
 #bookHidden = true
 +++
 
 # Material für Banner und Plakate
 
-## Texte
+## Text-Ideen
 
 * "Rette ein Leben, indem du keins zeugst." (Download vorhanden)
 * "Fortpflanzung ist eigennützig." (Download vorhanden)
