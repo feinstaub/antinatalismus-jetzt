@@ -34,7 +34,7 @@ Eine absehbare Folge eines weitläufigen freiwilligen Fortpflanzungsverzichts is
 Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
 Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist.
 
-![](https://c.pxhere.com/photos/2f/ed/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875.jpg!d)
+![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop.jpg)
 
 
 ## Hinschauen
