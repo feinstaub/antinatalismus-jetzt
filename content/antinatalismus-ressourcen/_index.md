@@ -29,6 +29,7 @@ Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 * (🚶, 🇬🇧) [YouTube-Kanal von **tofudog**](https://www.youtube.com/@tofudog4u),
     "The **vegan antinatalist variety channel**. Here, we do a little bit of everything- as long as it's vegan."
     * "Book Review | **Anti-Natalism: Rejectionist Philosophy From Buddhism to Benatar by Ken Coates**"
+        {{< youtube bwZCFjIcxUc >}}
     * "Talking to a Student About Antinatalism (Is it Wrong to Create New People?) | **Antinatalist Outreach**"
 
 * (🚶, 🇬🇧) [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
