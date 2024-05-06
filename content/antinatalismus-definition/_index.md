@@ -44,7 +44,7 @@ Wir möchten jedoch jede:n ermutigen, sich diesem Leid nicht zu verschließen un
 warum Menschen in der antinatalistischen Position einen **wohlbegründeten und ernstzunehmenden Standpunkt** sehen.
 
 
-## Nicht die (kurzfristige) Lösung für alles
+## Keine (kurzfristige) Lösung für alles
 
 Uns ist es wichtig zu betonen, dass wir den Antinatalismus - also der freiwillige Verzicht auf (weitere) eigene Fortpflanzung - nicht
 als DIE Lösung für alle [Probleme](../ungerechtigkeiten) ansehen. Vor allem nicht kurzfristig.
@@ -58,7 +58,7 @@ Einerseits ist es korrekt, dass die konsequente Anwendung mittel- bis langfristi
 ## Handeln
 
 Andererseits treten wir dafür ein, die [vielen Probleme und Ungerechtigkeiten](../ungerechtigkeiten), die im Hier und Jetzt bestehen,
-zu erkennen und nicht zu zögern, an deren Lösung zu arbeiten.
+wahrzunehmen und nicht zu zögern, an deren Lösung zu arbeiten.
 Antinatalismus basiert auf Rationalität und Mitgefühl und in diesem Sinne sollten wir Menschen uns gegenseitig bestmöglich helfen.
 Sich dafür einsetzen, das Leben für uns und die anderen Tiere so gut wie möglich zu gestalten. Unrecht auf allen Ebenen erkennen und bekämpfen.
 
