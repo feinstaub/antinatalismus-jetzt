@@ -30,5 +30,3 @@ Weiterlesen:
 * [Antinatalistische Argumente](antinatalistische-argumente)
 * [Pronatalistische Ausreden 😇](pronatalistische-ausreden)
 * [Häufige Fragen (FAQ)](faq)
-
-"Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."

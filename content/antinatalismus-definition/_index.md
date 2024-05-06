@@ -72,3 +72,5 @@ Weiter mit:
 * [Pronatalistische Ausreden 😇](../pronatalistische-ausreden)
 * [Häufige Fragen (FAQ)](../faq)
 * [Liste mit Ungerechtigkeiten](../ungerechtigkeiten)
+
+"Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
