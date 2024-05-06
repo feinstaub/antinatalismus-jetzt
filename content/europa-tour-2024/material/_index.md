@@ -18,3 +18,6 @@ bookHidden = true
     [PDF](designs-2024-04/Antinatalismus-1-Rette-ein-Leben.pdf)
 * ...im Aufbau...
 * "Dürfen wir neues Leben schaffen, um _unsere_ Lebensqualität zu verbessern?", [Beispiel](../#stuttgart)
+
+
+{{< attachments title="Rette ein Leben, indem du keins zeugst." folder="designs-2024-04/1" caption="" >}}

@@ -1,0 +1,3 @@
+<!-- http://oostens.me/posts/hugo--resources-inline-svg-icons/ does not work -->
+{{ $svg := resources.Get (print "svg/" . ".svg") }}
+<i class="inline-svg" >{{ $svg.Content | safeHTML }}</i>
