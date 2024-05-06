@@ -12,7 +12,7 @@
 			{{- if $include -}}
 			<li>
 				<a class="tooltipped tooltipped-n" aria-label="Download" href="{{ ($.Page.Resources.GetMatch (path.Join $folderName .Name)).RelPermalink }}" download>{{- .Name | markdownify -}}</a>
-				({{- if le .Size 1024 -}}{{- .Size -}} b{{- else -}}{{- div .Size 1024 -}}kB{{- end -}})
+				({{- if le .Size 1024 -}}{{- .Size -}}&nbsp;B{{- else -}}{{- div .Size 1024 -}}&nbsp;KiB{{- end -}})
 				<a class="new-tab tooltipped tooltipped-n" aria-label="Open in new tab" href="{{ ($.Page.Resources.GetMatch (path.Join $folderName .Name)).RelPermalink }}" target="_blank">↗️</a>
 			</li>
 			{{- end -}}
