@@ -10,6 +10,8 @@ weight = 21
 Die Antworten zu den einzelnen Punkten befinden sich unter
 [Common Pro-Natalists Excuses](https://dontprocreate.org/common-pro-natalists-excuses/) (dontprocreate.org):
 
+![](images/desperate_sad_depressed_cry_hopeless_loss_concern_teenager-1274362-crop2.jpg)
+
 * If life is so bad why don’t you just kill yourselves?
 * My life is good, why would my children’s lives be different?
 * People decide for themselves if their lives are worthy

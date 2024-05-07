@@ -4,7 +4,7 @@ title = 'Häufige Fragen (FAQ)'
 weight = 22
 +++
 
-# Häufige Fragen zum Antinatalismus
+# Häufige Fragen
 
 ## Eltern und Kinderwunsch
 
@@ -13,12 +13,16 @@ weight = 22
 Auch wenn wir glauben, dass es die moralisch bessere Entscheidung ist, keine Kinder zu zeugen,
 soll es Eltern mit selbst gezeugten Kindern nicht schwerer gemacht werden, als es ohnehin schon ist.
 
-Ihre Entscheidung wurde in der Vergangenheit getroffen und für jetzt wünschen wir den Eltern alles Gute
-und viel Kraft und Ausdauer die besten Eltern zu sein, die sich ihr Kind wünschen kann.
+Die Entscheidung wurde in der Vergangenheit getroffen und lässt sich nicht rückgängig machen.
+Also macht es keinen Sinn sich im Nachhinein darüber zu ärgern, sondern nach vorne zu blicken.
+Daher wünschen wir den Eltern alles Gute, um die besten Eltern zu sein, die sich ihr Kind wünschen kann.
 
-Wir hoffen natürlich, dass die [antinatalistischen Argumente](../antinatalistische-argumente)
+Wir begrüßen es, wenn die [antinatalistischen Argumente](../antinatalistische-argumente)
 in zukünftige Fortpflanzungsentscheidungen einfließen werden
 und die Argumente an andere Menschen weitergegeben werden. 🙂
+
+Auch Eltern von selbst gezeugten Kindern können Antinatalisten sein,
+wenn sie erst später davon erfahren haben.
 
 
 ### 🔹 Ich möchte gerne eine eigene Familie haben und Kinder erziehen.

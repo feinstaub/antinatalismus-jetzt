@@ -9,18 +9,6 @@ type = 'docs'
 
 Hier sammeln wir Ressourcen, die sich mit Antinatalismus beschäftigen.
 
-Wir unterscheiden vier Kategorien:
-
-* (🚶, Ethik_I) Ethik mit Fokus auf das **Individuum**, das durch seine Zeugung Leid erfahren würde.
-* (🧑‍🤝‍🧑, Ethik_K) Ethik mit Fokus auf die negative Auswirkung, die ein neuer Mensch einzeln oder **kollektiv** auf **andere** hat,
-    z. B. als Teil der Menschheit, die Umweltprobleme verursacht und dadurch anderen (und auch sich selber) schadet
-* (🌐, Politisch) Mischung aus Ethik_I und Ethik_K mit politischer Motivation, z. B. aus einer feministischen Haltung heraus
-* (👌, Persönlich) Kinderlos oder "kinderfrei" aus persönlichen Gründen;
-    ein erfülltes Leben zu führen ist möglich, auch ohne sich fortzupflanzen;
-    und vor allem ohne, dass einem jemand dabei reinredet.
-
-Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
-
 
 ## Webseiten, Social-Media-Kanäle, Bücher
 
@@ -67,6 +55,21 @@ So to my friends. Live your life to the fullest of its potential. Antinatalism i
 
 * (🧑‍🤝‍🧑) ["Griffin verzichtet auf Kinder, um die Erde zu schützen"](https://www.jetzt.de/kinderkriegen-kolumne/antinatalismus-keine-kinder-fuer-den-klimaschutz),
     jetzt.de, 2019, Franziska Koohestani
+
+
+## Legende
+
+Wir unterscheiden vier Kategorien:
+
+* (🚶, Ethik_I) Ethik mit Fokus auf das **Individuum**, das durch seine Zeugung Leid erfahren würde.
+* (🧑‍🤝‍🧑, Ethik_K) Ethik mit Fokus auf die negative Auswirkung, die ein neuer Mensch einzeln oder **kollektiv** auf **andere** hat,
+    z. B. als Teil der Menschheit, die Umweltprobleme verursacht und dadurch anderen (und auch sich selber) schadet
+* (🌐, Politisch) Mischung aus Ethik_I und Ethik_K mit politischer Motivation, z. B. aus einer feministischen Haltung heraus
+* (👌, Persönlich) Kinderlos oder "kinderfrei" aus persönlichen Gründen;
+    ein erfülltes Leben zu führen ist möglich, auch ohne sich fortzupflanzen;
+    und vor allem ohne, dass einem jemand dabei reinredet.
+
+Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 
 ## Unsortiert

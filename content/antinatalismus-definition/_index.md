@@ -9,6 +9,8 @@ type = 'docs'
 
 # Was ist Antinatalismus?
 
+![](images/green_park_season_nature_outdoor_green_background_landscape_natural-839604-crop.jpg)
+
 Allgemein werden als Antinatalismus Positionen bezeichnet, die sich für die **freiwillige Kinderlosigkeit** aussprechen.
 Nachlesen kann man dies z. B. im [Antinatalismus-Wikipedia-Artikel](https://de.wikipedia.org/wiki/Antinatalismus).
 
@@ -34,7 +36,7 @@ Eine absehbare Folge eines weitläufigen freiwilligen Fortpflanzungsverzichts is
 Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
 Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist.
 
-![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop.jpg)
+![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop2.jpg)
 
 
 ## Hinschauen

@@ -5,9 +5,13 @@ weight = 10
 type = 'docs'
 +++
 
+# Europa-Tour 2024
+
 ![](https://dontprocreate.org/wp-content/uploads/2024/04/Banner-for-The-EuropeAN-Tour-in-the-Website-1.jpg)
 
 Alle Details inklusive **Tourplan** auf **https://dontprocreate.org/**
+
+(AN steht für Antinatalismus)
 
 
 ## Einige Bilder
