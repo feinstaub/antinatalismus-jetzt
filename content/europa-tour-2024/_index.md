@@ -7,14 +7,33 @@ type = 'docs'
 
 # Europa-Tour 2024
 
-![](https://dontprocreate.org/wp-content/uploads/2024/04/Banner-for-The-EuropeAN-Tour-in-the-Website-1.jpg)
-
-Alle Details inklusive **Tourplan** auf **https://dontprocreate.org/**
+[![](https://dontprocreate.org/wp-content/uploads/2024/04/Banner-for-The-EuropeAN-Tour-in-the-Website-1.jpg)](https://dontprocreate.org)
 
 (AN steht für Antinatalismus)
 
+[Alle Details inklusive **Tourplan** auf dontprocreate.org](https://dontprocreate.org)
 
-## Einige Bilder
+
+## Ausgewählte Termine
+
+* Dresden
+    * Mittwoch 8.5. bis 17:30,
+    [DETAILS](https://www.facebook.com/events/304128759368934/)
+
+* Leipzig
+    * Donnerstag 9.5.,
+    [DETAILS](https://www.facebook.com/events/1582561095873221/)
+
+* Berlin
+    * Freitag 10.5., Samstag 11.5. und Sonntag 12.5. bis 11:00,
+    [DETAILS](https://www.facebook.com/events/448743504390537/)
+
+* Hamburg
+    * Sonntag 12.5. ab 15:00 und Montag 13.5.,
+    [DETAILS](https://www.facebook.com/events/962486088786806/)
+
+
+## Bilder
 
 ### Köln
 
