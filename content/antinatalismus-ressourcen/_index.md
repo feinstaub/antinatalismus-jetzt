@@ -15,7 +15,7 @@ Hier sammeln wir Ressourcen, die sich mit Antinatalismus beschäftigen.
 [Antinatalismus - Warum es immer schlecht ist empfindungsfähige Wesen zu erschaffen](https://www.buecher.de/artikel/buch/antinatalismus/48163075/),
 mit Leseprobe
 
-![](images/cover-antinatalismus-guenther-eberhard.jpg)
+![](images/cover-antinatalismus-guenther-eberhard-75.jpg)
 
 "Die Existenz von Leid setzt die Existenz von empfindungsfähigen Lebewesen voraus.
 Will man Leiden verhindern, dann muss man Leben verhindern!
@@ -58,20 +58,44 @@ Untersucht werden verschiedene Ansätze und Themen, wie zum Beispiel:
 These views may sound unbelievable--but anyone who reads Benatar will be obliged to take them seriously."
 
 
-## Weitere Webseiten, Social-Media-Kanäle
+## Online-Buch: "Antinatalism, Extinction, and the End of Procreative Self-Corruption", 2024 🇬🇧
 
-(🚶) Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
+[Antinatalism, Extinction, and the End of Procreative Self-Corruption](https://www.cambridge.org/core/elements/antinatalism-extinction-and-the-end-of-procreative-selfcorruption/A88E18CA50EF6D919CE459C007447DB4)
+
+![](images/cover-self-corruption.jpg)
+
+Veröffentlicht online von Cambridge University Press, von **Matti Häyry** and **Amanda Sukenick**
+
+Video-Abstract: Element in Bioethics and Neuroethics, 2024:
+
+{{< vimeo 902504086 >}}
+
+
+## Buch: "Anti-Natalism: Rejectionist Philosophy from Buddhism to Benatar", Kenneth S. Coates, 2014 🇬🇧
+
+[Anti-Natalism: Rejectionist Philosophy from Buddhism to Benatar](https://www.goodreads.com/book/show/21929960-anti-natalism)
+
+![](images/cover-anti-natalism-rejectionist-philosophy.jpg)
+
+
+## Weitere Ressourcen
+
+Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
 
 
 ### YouTube-Kanal: Lawrence Anton 🇬🇧
 
-(🚶) [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
+[YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
     ausführliche Interviews; Einordnung des aktuellen Geschehens rund um Antinatalismus
 
+### Webseite: Don’t Procreate 🇬🇧
 
-### Positive Antinatalists Facebook-Gruppe 🇬🇧
+https://dontprocreate.org
 
-(🚶) [**Positive Antinatalists** Facebook-Gruppe](https://www.facebook.com/groups/183599152661545/),
+
+### Facebook-Gruppe: Positive Antinatalists 🇬🇧
+
+[**Positive Antinatalists** Facebook-Gruppe](https://www.facebook.com/groups/183599152661545/),
     "This group is for Antinatalists who want to encourage the positive side of their life among a community full of encouragement and positivity.
 
 The average Antinatalist is a sensitive soul. A soul that feels so much empathy and wants to save others from inevitable suffering.
@@ -80,21 +104,65 @@ Having observed others I’ve realised having thick skin and better ability to i
 So to my friends. Live your life to the fullest of its potential. Antinatalism is the truth however Negativity is not."
 
 
-### Ressourcen mit weniger stringenter ethischer Argumentation
+## Ressourcen, die das Thema wenigstens am Rande bearbeiten
+
+### Webseite: VHEMT
 
 * Webseite: (🧑‍🤝‍🧑, 🇬🇧) https://www.vhemt.org - **The Voluntary Human Extinction Movement**
 
 * Webseite: (🧑‍🤝‍🧑) https://www.vhemt.org/dindex.htm - deutsche Übersetzung für die Voluntary Human Extinction Movement
 
+* nytimes-Artikel über den Gründer **Les Knight**:
+    [Earth Now Has 8 Billion Humans. This Man Wishes There Were None.](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html),
+    2022-2023
+
+
+### ARD-Doku: "Besser leben ohne Kinder?", 2022
+
+[Besser leben ohne Kinder? - Rabiat by Y-Kollektiv](https://www.ardmediathek.de/video/rabiat-by-y-kollektiv/besser-leben-ohne-kinder/ard/Y3JpZDovL3JhZGlvYnJlbWVuLmRlLzFmZTZkMzI0LTc2OGQtNGYxNC1hODRhLWZmZDgwOTEwZmJlMC9lcGlzb2RlL3VybjphcmQ6c2hvdzplMWM3NTc0YjYwZDVjODA0), 43 min
+
+Stellt unter anderem den Antinatalisten Karim Akerma vor.
+
+18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
+
+
+### Weitere 1
+
 * Webseite: (🌐, 👌, 🧑‍🤝‍🧑, 🚶, 🇬🇧) https://www.stophavingkids.org/ - Stop Having Kids
 
-* Artikel: (🚶) ["Wer nicht geboren wird, hat keine Probleme"](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus),
+* Artikel: (🚶) [**"Wer nicht geboren wird, hat keine Probleme"**](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus), über **Théophile de Giraud**
     zeit.de, 2018, Tobias Haberkorn,
     "Eine Welt ohne Menschen wäre besser:
-    **Der Antinatalist Théophile de Giraud ist gegen das Leben an sich, meint das aber nicht persönlich**.
+    Der Antinatalist Théophile de Giraud ist gegen das Leben an sich, meint das aber nicht persönlich.
     Hat er vielleicht sogar recht?"
 
-* Artikel: (🌐) ["Kinderfrei leben - »Reproduktion erzeugt neue Lohnsklaven«"](https://www.jungewelt.de/artikel/469607.kinderfrei-leben-reproduktion-erzeugt-neue-lohnsklaven.html),
+### arte-Doku: My so-called selfish life - Kinder? Nein, danke!, 2024
+
+[My so-called selfish life - Kinder? Nein, danke! | Doku HD | ARTE](https://www.youtube.com/watch?v=grxoL0umVHA), 1 h 14 min
+
+
+### ORF-Doku: "Am Schauplatz: Leben ohne Kinder", 2023
+
+[Am Schauplatz: Leben ohne Kinder](https://www.youtube.com/watch?v=xu5XQHcEQU8), 50 min
+
+
+### ZDF-Doku: 37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen, 2022
+
+[37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen](https://www.youtube.com/watch?v=FOcVryZiIUI), 15 min
+
+
+### Webseite: Antinatalismus, von Karim Akerma
+
+https://antinatalismus.wordpress.com/contact/
+
+""Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
+Dies scheint unangefochten. Aber weit gefehlt: Wann immer Menschen so handeln,
+dass ein neuer Mensch zu leben beginnt, handeln sie dergestalt, dass ein Mensch sterben muss."
+
+
+### Weitere 2
+
+* Artikel: (🌐) ["**Kinderfrei leben - »Reproduktion erzeugt neue Lohnsklaven«**"](https://www.jungewelt.de/artikel/469607.kinderfrei-leben-reproduktion-erzeugt-neue-lohnsklaven.html),
     jungewelt.de, 2024, Barbara Eder,
     "Das Buch »Kinderfreie aller Länder, vereinigt euch!« argumentiert für eine Existenz ohne Nachwuchs. Ein Gespräch mit **Verena Brunschweiger**",
     mit **feministischer Perspektive**
@@ -103,9 +171,7 @@ So to my friends. Live your life to the fullest of its potential. Antinatalism i
     jetzt.de, 2019, Franziska Koohestani
 
 
-## Legende
-
-Wir unterscheiden vier Kategorien:
+**Legende**: Wir unterscheiden vier Kategorien:
 
 * (🚶, Ethik_I) Ethik mit Fokus auf das **Individuum**, das durch seine Zeugung Leid erfahren würde.
 * (🧑‍🤝‍🧑, Ethik_K) Ethik mit Fokus auf die negative Auswirkung, die ein neuer Mensch einzeln oder **kollektiv** auf **andere** hat,
@@ -118,13 +184,15 @@ Wir unterscheiden vier Kategorien:
 Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 
-## Unsortiert
+**Unsortiert** (deutschsprachig):
 
 * Webseite: https://www.pro-iure-animalis.de/index.php/antinatalismus/articles/was-ist-antinatalismus.html
 
+* Artikel: [Antinatalismus: Die neue Bewegung gegen die Fortpflanzung](https://www.refinery29.com/de-de/antinatalismus-fortpflanzung-gegner), 2019
+
 * Webseite: https://albatros-buch.de/shop/item/9783346771261/antinatalismus-im-lichte-des-klimawandels-von-clara-kongeter-kartoniertes-buch
 
-* Webseite: https://literaturkritik.de/antinatalismus-natuerliche-verbuendete,25592.html
+* Artikel: https://literaturkritik.de/antinatalismus-natuerliche-verbuendete,25592.html
 
 * Artikel: https://berlinergazette.de/de/anti-natalismus/
 
