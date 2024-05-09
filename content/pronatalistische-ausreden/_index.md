@@ -6,6 +6,8 @@ weight = 21
 
 # Pronatalistische Einwände und Missverständnisse
 
+...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
+
 ## Auf dontprocreate.org
 Die Antworten zu den einzelnen Punkten befinden sich unter
 [Common Pro-Natalists Excuses](https://dontprocreate.org/common-pro-natalists-excuses/) (dontprocreate.org):
