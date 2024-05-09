@@ -34,8 +34,8 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
 * [Liste der Foltermethoden](https://de.wikipedia.org/wiki/Folterinstrument)
 
-    * [Briefe gegen das Vergessen - Gib Gefangenen Hoffnung, schreib einen Brief](https://www.amnesty.de/mitmachen/briefe-gegen-das-vergessen)
-        (Amnesty International Deutschland e. V.)
+    * [Briefe gegen das Vergessen](https://www.amnesty.de/mitmachen/briefe-gegen-das-vergessen),
+        "Gib Gefangenen Hoffnung, schreib einen Brief"
 
 * [Julian Assange](https://de.wikipedia.org/wiki/Julian_Assange)
 
