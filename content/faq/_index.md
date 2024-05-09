@@ -33,9 +33,20 @@ von bereits vorhandenen Kindern ein möglicher - wenn auch schwierigerer - Weg,
 dies ohne eigene Fortpflanzung zu erreichen.
 
 
+## Aussterben
+
+![](images/colorvisualize.jpg)
+
+(Grafik von [Nina Paley](https://blog.ninapaley.com/), koloriert von Aaron Hackmann)
+
+* [Online-Buch: “Antinatalism, Extinction, and the End of Procreative Self-Corruption”, 2024](../antinatalismus-ressourcen/#online-buch-antinatalism-extinction-and-the-end-of-procreative-self-corruption-2024-)
+
+* ...im Aufbau...
+
+
 ## Gesellschaft
 
-### Wer bezahlt meine Rente, wenn es immer weniger Kinder gibt?
+### 🔹 Wer bezahlt meine Rente, wenn es immer weniger Kinder gibt?
 
 Die Sparkassenwerbung aus dem Jahr 1998 sagt prägnant, was davon zu halten ist:
 

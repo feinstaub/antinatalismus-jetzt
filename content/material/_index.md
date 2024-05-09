@@ -47,3 +47,8 @@ Hilfsmittel:
 {{< attachments title="Keine neuen Kinder machen für eine bessere Welt." folder="designs-2024-04/4" >}}
 {{< attachments title="Antinatalismus: Mitgefühl. Frieden. Machbar." folder="designs-2024-04/5" >}}
 {{< attachments title="Antinatalismus: Bleib ungeboren."        folder="designs-2024-04/6" >}}
+
+
+## Bilder
+
+* [Visualize Voluntary Human Extinction](../faq/#aussterben)
