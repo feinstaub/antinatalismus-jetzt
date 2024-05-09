@@ -10,7 +10,7 @@ type = 'docs'
 
 Das Team Deutschland ist im Aufbau.
 
-Vorläufig erreichst du uns per [E-Mail](codestruct@posteo.org). Ansprechperson ist Gregor.
+Vorläufig erreichst du uns per [E-Mail](mailto:codestruct@posteo.org). Ansprechperson ist Gregor.
 
 Schreib uns gerne für alle Fragen, die die Webseite nicht beantworten konnte.
 

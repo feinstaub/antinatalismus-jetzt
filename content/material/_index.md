@@ -6,13 +6,17 @@ type = 'docs'
 #bookHidden = true
 +++
 
-# Material für Banner und Plakate
+# Material für Öffentlichkeitsarbeit
+
+## 2024
 
 ![](images/IMG_20240430_123049-Antinat-Ausdrucke-crop.jpg)
 
 Beispiel Ausdrucke auf A3-Papier, 20 Cent / Ausdruck
 
 Alle Ideen und Downloads für Straßenaktivismus sind frei verwendbar.
+
+Siehe auch [Europa-Tour 2024](../europa-tour-2024).
 
 
 ## Text-Ideen
