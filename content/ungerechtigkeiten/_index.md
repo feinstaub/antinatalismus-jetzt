@@ -15,7 +15,7 @@ die es gar nicht erst hätte geben sollen.
 
 Sich dieses Leid zu vergegenwärtigen kann Gefühle von Schmerz und Ohnmacht hervorufen.
 Wir ermutigen alle, ihre gefühlte Ohnmacht zu überwinden
-und im Hier und Jetzt mindestens einem dieser Probleme zu widmen
+und sich im Hier und Jetzt mindestens einem dieser Probleme zu widmen
 und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
 
@@ -70,6 +70,9 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
 
 * Schokolade auf Kosten von Menschen in armen Ländern
+
+
+* Süßigkeiten auf Kosten von Tieren
 
 
 * Etc.
