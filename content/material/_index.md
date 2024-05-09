@@ -23,20 +23,43 @@ Siehe auch [Europa-Tour 2024](../europa-tour-2024).
 
 Rational:
 
-* "Rette ein Leben, indem du keins zeugst." (Download vorhanden)
-* "Fortpflanzung ist eigennützig." (Download vorhanden)
-* "Keine neuen Kinder machen für eine bessere Welt." (Download vorhanden)
-* "Antinatalismus: Mitgefühl. Frieden. Machbar." (Download vorhanden)
-* "Dürfen wir neues Leben schaffen, um _unsere_ Lebensqualität zu verbessern?" ([Beispiel](../europa-tour-2024#stuttgart))
+* **Fortpflanzung ist eigennützig.** ([Download](#downloads))
 
-Humoristisch / Provokativ:
+* **Es ist unfair, jemanden in eine unfaire Welt zu setzen.**
 
-* "Make love, not babies." (Download vorhanden)
-* "Antinatalismus: Bleib ungeboren." (Download vorhanden)
+* **Dürfen wir neues Leben schaffen, um _unsere_ Lebensqualität zu verbessern?** ([Beispiel](../europa-tour-2024#stuttgart))
+
+* **Kriege werden enden, wenn Fortpflanzung endet.**
+
+* **Keine Fortpflanzung. => Keine Kriege.**
+
+* **Das Leben ist nicht fair.**
+
+* **Menschen verursachen eine Menge Leid.**
+
+* **Warum sollten wir zukünftige Generationen Kämpfen aussetzen, die wirklich nie enden?**
+
+* **Antinatalismus: Mitgefühl. Frieden. Machbar.** ([Download](#downloads))
+
+* **Keine neuen Kinder machen für eine bessere Welt.** ([Download](#downloads))
+
+
+Nachdenklich / Humoristisch / Provokativ:
+
+* **Rette ein Leben, indem du keins zeugst.** ([Download](#downloads))
+
+* **Make love, not babies.** ([Download](#downloads))
+
+* **Antinatalismus: Bleib ungeboren.** ([Download](#downloads))
+
+* **Niemand hat zugestimmt, gezeugt zu werden.**
+
+* **Vasektomie für starke Männer.**
+
 
 Hilfsmittel:
 
-* "Sprich uns gerne an!"
+* **Sprich uns an!**
 
 
 ## Downloads
