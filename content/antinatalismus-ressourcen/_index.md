@@ -114,6 +114,8 @@ Aus dem Inhalt:
 * Philanthropischer Antinatalismus
 * David Benatar über Antinatalismus, Veganismus, Klimawandel und die menschliche Starrköpfigkeit
 
+[Interview mit der Autorin: #87 – Elizabeth Barber - The Exploring Antinatalism Podcast](https://podtail.com/de/podcast/exploring-antinatalism/-87-elizabeth-barber/), 2024
+
 ### YouTube-Kanal: Lawrence Anton 🇬🇧
 
 [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
