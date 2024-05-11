@@ -59,6 +59,9 @@ Stuttgart
 ![](images/IMG_20240501_163331-Veganer-Döner.jpg)
 Veganer Döner in Stuttgart
 
+{{< youtube fITKum7SpHY >}}
+Demo zum 1. Mai
+
 
 ### Wien
 
