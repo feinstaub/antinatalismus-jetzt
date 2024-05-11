@@ -1,3 +1,4 @@
 #!/bin/bash
 
-hugo server -D
+REPODIR=.
+cd $REPODIR && xdg-open http://localhost:1313/ && hugo server -D
