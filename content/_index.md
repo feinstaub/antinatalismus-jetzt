@@ -1,6 +1,6 @@
 +++
 title = 'Antinatalismus Jetzt. 🙂'
-images = ['images/sea-water-nature-bird-wing-seabird-514434-pxhere.com.1000px.jpg']
+images = ['images/wild_flowers_flowers_plant_macro_nature_pink_flower_white_yellow-1086760-crop.jpg']
 +++
 
 #  Willkommen auf Antinatalismus Jetzt.
