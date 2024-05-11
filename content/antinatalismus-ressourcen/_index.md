@@ -10,7 +10,7 @@ type = 'docs'
 Hier sammeln wir Ressourcen, die sich mit Antinatalismus beschäftigen.
 
 
-## Buch: "Antinatalismus" von Günther R. Eberhard
+## Buch: "Antinatalismus" von Günther R. Eberhard, 2017
 
 [Antinatalismus - Warum es immer schlecht ist empfindungsfähige Wesen zu erschaffen](https://www.buecher.de/artikel/buch/antinatalismus/48163075/),
 mit Leseprobe
