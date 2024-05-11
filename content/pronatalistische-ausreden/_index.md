@@ -8,6 +8,20 @@ weight = 21
 
 ...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
 
+## Verschiedenes
+
+### 🔹 Mein Kind könnte das Potential haben, die Welt zu verbessern
+
+* Besser die Sache im Hier und Jetzt selber in die Hand nehmen,
+    als die Probleme liegen zu lassen und die Verantwortung einfach weiterzugeben.
+    Vergleiche "Glückspiel mit dem Leben"-Argument.
+* Was auch möglich ist: Das Kind könnte später der nächste Diktator werden.
+* Um Kinder mit guten Werten zu erziehen, muss es kein biologisches Kind sein.
+    * Beispiel: Partnerschaften, bei denen ein Teil bereits ein oder mehrere Kinder mitbringt.
+    * Beispiel: Adoption.
+    * Beispiel: Bildungsarbeit an Schulen etc.
+
+
 ## Auf dontprocreate.org
 Die Antworten zu den einzelnen Punkten befinden sich unter
 [Common Pro-Natalists Excuses](https://dontprocreate.org/common-pro-natalists-excuses/) (dontprocreate.org):

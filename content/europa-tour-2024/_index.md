@@ -29,7 +29,7 @@ type = 'docs'
     [DETAILS](https://www.facebook.com/events/448743504390537/)
 
 * Hamburg
-    * Sonntag 12.5. ab 15:00 und Montag 13.5.,
+    * Sonntag 12.5. (Muttertag) ab 15:00 und Montag 13.5.,
     [DETAILS](https://www.facebook.com/events/962486088786806/)
 
 
