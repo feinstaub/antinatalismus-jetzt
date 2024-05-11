@@ -69,6 +69,13 @@ Die Menschen sind kreativ und wenn genug Menschen die Idee der freiwilligen Kind
 übernehmen, so dass praktische Auswirkungen absehbar sind, werden Lösungen gefunden werden.
 
 
+### 🔹 Wer unterstützt mich, wenn ich schwer krank werden sollte?
+
+* Kinder sind kein Mittel zum Zweck.
+* Außerdem sind eigens gezeugte Kinder keine Garantie,
+    dass sie sich im Fall der Fälle um einen kümmern werden oder können.
+
+
 ### 🔹 Seid ihr für Abtreibung?
 
 * Das Thema [Schwangerschaftsabbruch](https://de.wikipedia.org/wiki/Schwangerschaftsabbruch) ist ein komplexes Thema,

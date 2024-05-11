@@ -83,10 +83,42 @@ Video-Abstract: Element in Bioethics and Neuroethics, 2024:
 Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
 
 
+### Essay: "The Case Against Children - Among the antinatalists", 2024 {#a__harper_barber_2024}
+
+[Essay von Elizabeth Barber, erschienen im Harper Magazin](https://harpers.org/archive/2024/03/the-case-against-children-elizabeth-barber/), 2024
+
+Die Autorin ist Mutter eines nicht selbst gezeugten Kindes und ist selber keine Antinatalistin.
+Sie hat in Antinatalismus-Kreisen recherchiert und diesen lesenswerten Essay geschrieben.
+
+Aus dem Inhalt:
+
+* Portrait der Gründerinnen von [Stop Having Kids]({{< ref "#a__stophavingkids" >}})
+    und Begleitung beim Straßen-Aktivismus
+* Einfangen von Reaktionen von Passant:innen von Zustimmung bis Ablehnung
+    * unter anderem ein Sohn von Einwanderereltern aus Pakistan, der seinen Ingenieursjob gekündigt bekommen hatte
+    * Überbevölkerung oder Klimawandel?
+* Stiefmutter werden
+* Erwähnung von...
+    * Pratima Naik (eine der Gründerinnen von Childfree India, siehe auch https://antinatalisminternational.com/who-we-are/)
+    * Schopenhauer
+    * Théophile de Giraud
+    * Kierkegaard
+    * Al-Ma‘arri (syrischer Atheist, geboren im 10. Jahrhundert)
+    * Cansu Özge Özmen (übersetzte Benatars Buch ins Türkische;
+        würde gerne eigene Kinder haben, aber die Verantwortung wäre zu groß in dieser unfreundlichen und unsicheren Welt)
+    * Matti Häyry
+    * Cioran
+* _Better Never to Have Been_ von David Benatar
+* Interview mit Amanda Sukenick
+* Omelas child
+* Philanthropischer Antinatalismus
+* David Benatar über Antinatalismus, Veganismus, Klimawandel und die menschliche Starrköpfigkeit
+
 ### YouTube-Kanal: Lawrence Anton 🇬🇧
 
 [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
     ausführliche Interviews; Einordnung des aktuellen Geschehens rund um Antinatalismus
+
 
 ### Webseite: Don’t Procreate 🇬🇧
 
@@ -98,10 +130,19 @@ https://dontprocreate.org
 [**Positive Antinatalists** Facebook-Gruppe](https://www.facebook.com/groups/183599152661545/),
     "This group is for Antinatalists who want to encourage the positive side of their life among a community full of encouragement and positivity.
 
-The average Antinatalist is a sensitive soul. A soul that feels so much empathy and wants to save others from inevitable suffering.
+The average Antinatalist is a sensitive soul.
+A soul that feels so much empathy and wants to save others from inevitable suffering.
 While we are empathetic souls, we struggle to feel positive in such a world.
-Having observed others I’ve realised having thick skin and better ability to ignore/live on surface of things definitely leads to better ability to combat this war.
+Having observed others I’ve realised having thick skin and better ability
+to ignore/live on surface of things definitely leads to better ability to combat this war.
 So to my friends. Live your life to the fullest of its potential. Antinatalism is the truth however Negativity is not."
+
+
+### Webseite: Stop Having Kids 🇬🇧 {#a__stophavingkids}
+
+https://www.stophavingkids.org/
+
+Siehe auch [Essay dazu]({{< ref "#a__harper_barber_2024" >}}).
 
 
 ## Ressourcen, die das Thema wenigstens am Rande bearbeiten
@@ -128,9 +169,9 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
 
 ### Weitere 1
 
-* Webseite: (🌐, 👌, 🧑‍🤝‍🧑, 🚶, 🇬🇧) https://www.stophavingkids.org/ - Stop Having Kids
+* Webseite: https://antinatalisminternational.com
 
-* Artikel: (🚶) [**"Wer nicht geboren wird, hat keine Probleme"**](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus), über **Théophile de Giraud**
+* Artikel: [**"Wer nicht geboren wird, hat keine Probleme"**](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus), über **Théophile de Giraud**
     zeit.de, 2018, Tobias Haberkorn,
     "Eine Welt ohne Menschen wäre besser:
     Der Antinatalist Théophile de Giraud ist gegen das Leben an sich, meint das aber nicht persönlich.
