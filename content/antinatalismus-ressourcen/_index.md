@@ -80,9 +80,6 @@ Video-Abstract: Element in Bioethics and Neuroethics, 2024:
 
 ## Weitere Ressourcen
 
-Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
-
-
 ### Essay: "The Case Against Children - Among the antinatalists", 2024 {#a__harper_barber_2024}
 
 [Essay von Elizabeth Barber, erschienen im Harper Magazin](https://harpers.org/archive/2024/03/the-case-against-children-elizabeth-barber/), 2024
@@ -147,17 +144,26 @@ https://www.stophavingkids.org/
 Siehe auch [Essay dazu]({{< ref "#a__harper_barber_2024" >}}).
 
 
-## Ressourcen, die das Thema wenigstens am Rande bearbeiten
-
 ### Webseite: VHEMT
 
-* Webseite: (🧑‍🤝‍🧑, 🇬🇧) https://www.vhemt.org - **The Voluntary Human Extinction Movement**
+* Webseite: https://www.vhemt.org - **The Voluntary Human Extinction Movement** 🇬🇧
 
-* Webseite: (🧑‍🤝‍🧑) https://www.vhemt.org/dindex.htm - deutsche Übersetzung für die Voluntary Human Extinction Movement
+* Webseite: https://www.vhemt.org/dindex.htm - deutsche Übersetzung für die Voluntary Human Extinction Movement
 
 * nytimes-Artikel über den Gründer **Les Knight**:
     [Earth Now Has 8 Billion Humans. This Man Wishes There Were None.](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html),
     2022-2023
+
+
+### Weitere 1
+
+* Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
+
+
+* Webseite: https://antinatalisminternational.com
+
+
+## Ressourcen, die das Thema ansprechen
 
 
 ### ARD-Doku: "Besser leben ohne Kinder?", 2022
@@ -169,9 +175,7 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
 18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
 
 
-### Weitere 1
-
-* Webseite: https://antinatalisminternational.com
+### Weitere 2
 
 * Artikel: [**"Wer nicht geboren wird, hat keine Probleme"**](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus), über **Théophile de Giraud**
     zeit.de, 2018, Tobias Haberkorn,
@@ -179,38 +183,33 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
     Der Antinatalist Théophile de Giraud ist gegen das Leben an sich, meint das aber nicht persönlich.
     Hat er vielleicht sogar recht?"
 
-### arte-Doku: My so-called selfish life - Kinder? Nein, danke!, 2024
 
-[My so-called selfish life - Kinder? Nein, danke! | Doku HD | ARTE](https://www.youtube.com/watch?v=grxoL0umVHA), 1 h 14 min
-
-
-### ORF-Doku: "Am Schauplatz: Leben ohne Kinder", 2023
-
-[Am Schauplatz: Leben ohne Kinder](https://www.youtube.com/watch?v=xu5XQHcEQU8), 50 min
+* arte-Doku: My so-called selfish life - Kinder? Nein, danke!, 2024
+    * [My so-called selfish life - Kinder? Nein, danke! | Doku HD | ARTE](https://www.youtube.com/watch?v=grxoL0umVHA), 1 h 14 min
 
 
-### ZDF-Doku: 37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen, 2022
-
-[37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen](https://www.youtube.com/watch?v=FOcVryZiIUI), 15 min
-
-
-### Webseite: Antinatalismus, von Karim Akerma
-
-https://antinatalismus.wordpress.com/contact/
-
-""Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
-Dies scheint unangefochten. Aber weit gefehlt: Wann immer Menschen so handeln,
-dass ein neuer Mensch zu leben beginnt, handeln sie dergestalt, dass ein Mensch sterben muss."
+* ORF-Doku: "Am Schauplatz: Leben ohne Kinder", 2023
+    * [Am Schauplatz: Leben ohne Kinder](https://www.youtube.com/watch?v=xu5XQHcEQU8), 50 min
 
 
-### Weitere 2
+* Webseite: Antinatalismus, von Karim Akerma
+    * https://antinatalismus.wordpress.com/contact/,
+    ""Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
+    Dies scheint unangefochten. Aber weit gefehlt: Wann immer Menschen so handeln,
+    dass ein neuer Mensch zu leben beginnt, handeln sie dergestalt, dass ein Mensch sterben muss."
 
-* Artikel: (🌐) ["**Kinderfrei leben - »Reproduktion erzeugt neue Lohnsklaven«**"](https://www.jungewelt.de/artikel/469607.kinderfrei-leben-reproduktion-erzeugt-neue-lohnsklaven.html),
+
+* ZDF-Doku: 37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen, 2022
+    * [37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen](https://www.youtube.com/watch?v=FOcVryZiIUI), 15 min
+
+
+* Artikel: ["**Kinderfrei leben - »Reproduktion erzeugt neue Lohnsklaven«**"](https://www.jungewelt.de/artikel/469607.kinderfrei-leben-reproduktion-erzeugt-neue-lohnsklaven.html),
     jungewelt.de, 2024, Barbara Eder,
     "Das Buch »Kinderfreie aller Länder, vereinigt euch!« argumentiert für eine Existenz ohne Nachwuchs. Ein Gespräch mit **Verena Brunschweiger**",
     mit **feministischer Perspektive**
 
-* Artikel: (🧑‍🤝‍🧑) ["Griffin verzichtet auf Kinder, um die Erde zu schützen"](https://www.jetzt.de/kinderkriegen-kolumne/antinatalismus-keine-kinder-fuer-den-klimaschutz),
+
+* Artikel: ["Griffin verzichtet auf Kinder, um die Erde zu schützen"](https://www.jetzt.de/kinderkriegen-kolumne/antinatalismus-keine-kinder-fuer-den-klimaschutz),
     jetzt.de, 2019, Franziska Koohestani
 
 
