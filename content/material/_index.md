@@ -27,7 +27,9 @@ Rational:
 
 * **Es ist unfair, jemanden in eine unfaire Welt zu setzen.**
 
-* **Dürfen wir neues Leben schaffen, um _unsere_ Lebensqualität zu verbessern?** ([Beispiel](../europa-tour-2024#stuttgart))
+* **Menschen verursachen eine Menge Leid.**
+
+* **Dürfen wir neues Leben schaffen, um _unsere_ Lebensqualität zu verbessern?** ([Beispiel]({{< ref "/europa-tour-2024#a__stuttgart" >}}))
 
 * **Kriege werden enden, wenn Fortpflanzung endet.**
 
@@ -35,13 +37,15 @@ Rational:
 
 * **Das Leben ist nicht fair.**
 
-* **Menschen verursachen eine Menge Leid.**
-
 * **Warum sollten wir zukünftige Generationen Kämpfen aussetzen, die wirklich nie enden?**
 
 * **Antinatalismus: Mitgefühl. Frieden. Machbar.** ([Download](#downloads))
 
 * **Keine neuen Kinder machen für eine bessere Welt.** ([Download](#downloads))
+
+* **Es ist nicht dein Recht, jemanden in die Welt zu holen, der das nicht wollte.**
+
+* **Ist Kinder zeugen eine persönliche Entscheidung?**
 
 
 Nachdenklich / Humoristisch / Provokativ:
@@ -55,6 +59,12 @@ Nachdenklich / Humoristisch / Provokativ:
 * **Niemand hat zugestimmt, gezeugt zu werden.**
 
 * **Vasektomie für starke Männer.**
+
+* **Männer in die Verantwortung. Für freien Zugang zur Vasektomie.**
+
+* **Warum brauchst du jemand, der so aussieht wie du, um ihn zu lieben**
+
+* **Keine Menschen. Keine Kriege.**
 
 
 Hilfsmittel:
@@ -74,4 +84,4 @@ Hilfsmittel:
 
 ## Bilder
 
-* [Visualize Voluntary Human Extinction](../faq/#aussterben)
+* [Visualize Voluntary Human Extinction]({{< ref "/faq#a__aussterben" >}})

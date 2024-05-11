@@ -37,7 +37,7 @@ Dies ist auf dem [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Antinatalismu
 
 Eine absehbare Folge eines weitläufigen freiwilligen Fortpflanzungsverzichts ist das Aussterben der Menschheit.
 Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
-[Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist](../faq##aussterben).
+[Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist]({{< ref "/faq#a__aussterben" >}}).
 
 ![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop2.jpg)
 

@@ -6,7 +6,7 @@ weight = 22
 
 # Häufige Fragen
 
-## Eltern und Kinderwunsch
+## Eltern und Wunsch nach eigenen Kindern
 
 ### 🔹 Sollen Eltern mit selbst gezeugten Kindern ihre Entscheidung bedauern?
 
@@ -25,7 +25,7 @@ Auch Eltern von selbst gezeugten Kindern können Antinatalisten sein,
 wenn sie erst später davon erfahren haben.
 
 
-### 🔹 Ich möchte gerne eine eigene Familie haben und Kinder erziehen.
+### 🔹 Ich möchte gerne eine Familie haben und Kinder erziehen.
 
 Wenn eine eigene Familie und Kindererziehung gewünscht ist, dann ist
 die **Adoption** ([Websuche](https://www.qwant.com/?q=adoption+in+deutschland&t=web))
@@ -33,13 +33,24 @@ von bereits vorhandenen Kindern ein möglicher - wenn auch schwierigerer - Weg,
 dies ohne eigene Fortpflanzung zu erreichen.
 
 
-## Aussterben
+### 🔹 Was ist bedeutet "zeugungsbedingte Selbstkorrumpierung"?
+
+...im Aufbau...
+
+{{< vimeo 902504086 >}}
+
+[zu den Ressourcen]({{< ref "/antinatalismus-ressourcen#a__sukenick_selfcorr_2024" >}})
+
+
+## Aussterben {#a__aussterben}
 
 ![](images/colorvisualize.jpg)
 
 (Grafik von [Nina Paley](https://blog.ninapaley.com/), koloriert von Aaron Hackmann)
 
-* [Online-Buch: “Antinatalism, Extinction, and the End of Procreative Self-Corruption”, 2024](../antinatalismus-ressourcen/#online-buch-antinatalism-extinction-and-the-end-of-procreative-self-corruption-2024-)
+* [Online-Buch: “Antinatalism, Extinction, and the End of Procreative Self-Corruption”, 2024]({{< ref "/antinatalismus-ressourcen#ref_sukenick_selfcorr_2024" >}})
+
+* Eine freundliche Perspektive auf das Aussterben: [VHEMT: “Mögen wir lange leben und aussterben”](https://www.vhemt.org/dindex.htm)
 
 * ...im Aufbau...
 
@@ -58,9 +69,18 @@ Die Menschen sind kreativ und wenn genug Menschen die Idee der freiwilligen Kind
 übernehmen, so dass praktische Auswirkungen absehbar sind, werden Lösungen gefunden werden.
 
 
-## Fokus Umwelt und andere Tiere
+### 🔹 Seid ihr für Abtreibung?
 
-### 🔹 FAQ der Voluntary Human Extinction Movement
+* Das Thema [Schwangerschaftsabbruch](https://de.wikipedia.org/wiki/Schwangerschaftsabbruch) ist ein komplexes Thema,
+    das es wert ist, ausführlich besprochen zu werden.
+    Antinatalismus setzt einen Schritt früher an: freiwillig auf die eigene Fortpflanzung zu verzichten.
+    Da gibt es keine moralischen Dilemma.
+* Siehe auch [Ist VHEMT für Abtreibung?](https://www.vhemt.org/dbiobreed.htm#abortion)
+
+
+## Umwelt und andere Tiere
+
+### 🔹 Voluntary Human Extinction Movement (VHEMT)
 
 Die _Bewegung für das freiwillige Aussterben der Menschheit_
 (The Voluntary Human Extinction Movement, [VHEMT](https://www.vhemt.org))

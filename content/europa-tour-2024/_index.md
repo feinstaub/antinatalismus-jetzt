@@ -51,7 +51,7 @@ Köln, Schildergasse
 Franfurt am Main, Zeil
 
 
-### Stuttgart
+### Stuttgart {#a__stuttgart}
 
 ![](images/IMG_20240501_161135-Antinat-Stuttgart-deutsche-Plakate.jpg)
 Stuttgart

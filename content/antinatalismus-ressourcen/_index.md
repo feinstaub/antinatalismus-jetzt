@@ -58,7 +58,7 @@ Untersucht werden verschiedene Ansätze und Themen, wie zum Beispiel:
 These views may sound unbelievable--but anyone who reads Benatar will be obliged to take them seriously."
 
 
-## Online-Buch: "Antinatalism, Extinction, and the End of Procreative Self-Corruption", 2024 🇬🇧
+## Online-Buch: "Antinatalism, Extinction, and the End of Procreative Self-Corruption", 2024 🇬🇧 {#a__sukenick_selfcorr_2024}
 
 [Antinatalism, Extinction, and the End of Procreative Self-Corruption](https://www.cambridge.org/core/elements/antinatalism-extinction-and-the-end-of-procreative-selfcorruption/A88E18CA50EF6D919CE459C007447DB4)
 
