@@ -8,13 +8,15 @@ weight = 23
 
 ![](images/Chicago_Museum_Prints_and_Drawings_Albrecht_D_rer-1462875.jpg)
 
-Neben der ersten Ungerechtigkeit, eine Person, die nicht zustimmen konnte,
-in unsere **unfaire Welt** zu holen,
-listen wir hier weitere Ungerechtigkeiten und anderes Leid auf,
+Die Welt ist unfair und ungerecht. Außerdem gefährlich.
+Zusätzlich verursachen Menschen selber viel Leid
+und Ungerechtigkeiten.
+
+Hier präsentieren wir eine Auswahl von Unrecht und anderem Leid,
 die es gar nicht erst hätte geben sollen.
 
 Sich dieses Leid zu vergegenwärtigen kann Gefühle von Schmerz und Ohnmacht hervorufen.
-Wir ermutigen alle, ihre gefühlte Ohnmacht zu überwinden
+Die Realität bewusst wahrzunehmen ist aber die Grundlage die Ohnmacht zu überwinden
 und sich im Hier und Jetzt mindestens einem dieser Probleme zu widmen
 und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
@@ -60,16 +62,31 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 * ["Moritz Riesewieck: „Digitale Drecksarbeit“ Facebook vom Bösen erlösen"](https://www.deutschlandfunkkultur.de/moritz-riesewieck-digitale-drecksarbeit-facebook-vom-boesen-100.html), 2017
 
 
+### Drogen
+(inklusive Alkohol und Tabak)
+
+"Sehnsucht nach Rausch - Drogen und ihre Folgen", 2023, hr-fernsehen
+
+"Vorsicht: Triggerwarnung. Der folgende Film thematisiert Medikamenten- und Drogensucht und ihre Folgen bis hin zum Suizid.
+Anschauen auf eigene Verantwortung.
+Welche gesellschaftlichen Folgen hat der allgegenwärtige Drogenkonsum?
+Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert."
+
+{{< youtube 6COvJ0-dGRM >}}
+
+<!--    {{< youtube BeQzwylndmk >}}     "Die Drogenhölle auf den Straßen Amerikas I Weltspiegel", 2024 -->
+
+
 ### Weitere
 
-* Drogen
-    {{< youtube BeQzwylndmk >}}
+* Klimakatastrophe und Klimaungerechtigkeit
+    * Überschwemmungen
+    * Dürre
+    * Ernteausfälle
+    * Flucht und Vertreibung
 
 
 * Homophobie
-
-
-* Klimakatastrophe und Klimaungerechtigkeit
 
 
 * Schokolade auf Kosten von Menschen (in ärmeren Ländern)
