@@ -90,14 +90,29 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 {{< youtube CBz_7aA19Vc >}}
 
 
+### Bisons töten, um Menschen zu vertreiben {#a__bisons_toeten}
+
+* https://www.fluter.de/native-americans-durch-bisonjagd-ausgerottet, 2019,
+    "In kürzester Zeit töteten weiße Jäger Millionen Bisons und raubten so den nordamerikanischen Ureinwohnern die Lebensgrundlage."
+
+* https://de.wikipedia.org/wiki/Amerikanischer_Bison#Bejagung_f%C3%BCr_Handel_mit_Bisonroben_(ab_1820)_und_Fleischversorgung_der_Bahnarbeiter_(ab_1860er),
+    "Um 1830 begann jedoch die gezielte Ausrottung der Bisons durch die europäischstämmigen Siedler,
+    zunächst noch vorrangig mit dem Ziel, den Bedarf der europäischstämmigen Siedler zu decken,
+    zunehmend aber auch den Zweck verfolgend, den ihre Jagdgebiete verteidigenden Indianern ihre Lebensgrundlage
+    (in Form von Lebensmitteln, Brennstoff, Kleidung und Zelten) zu entziehen."
+
+* Siehe auch [Europäischer Rassismus]({{< ref "#a__europ_rassismus" >}})
+
+
 ## Geschichte
 
-### Der europäische Rassismus: "Rottet die Bestien aus"
+### Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
 
 arte-Doku, 2022:
 
 * Artikel: https://www.deutschlandfunkkultur.de/raoul-peck-rottet-die-bestien-aus-100.html, 8 min Audio
 * Filmtipp: https://www.youtube.com/watch?v=Smoi1QJ95OM, 2 min
+* Siehe auch [Bisons töten, um Menschen zu vertreiben]({{< ref "#a__bisons_toeten" >}})
 
 "Die verstörende Überheblichkeit der Ignoranz" des europäischen Rassismus:
 
