@@ -48,8 +48,11 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
 ### Hass gegen Frauen
 
-* "Feindbild Frau | Doku HD Reupload | ARTE, von Ursula Duplantier", 2022, 50 min
-    {{< youtube Ggan0yR5xmA >}}
+* "Der alltägliche Mordversuch: Gewalt gegen Frauen | DokThema | Doku | BR"
+    {{< youtube LLNs3CmynPY >}}
+
+* "Feinbild Frau arte Dokumentation", von Ursula Duplantier", 2022, 50 min
+    {{< youtube VQXXRWaPxhM >}}
 
 
 ### Ausbeutung für digitale Dienste
@@ -66,13 +69,13 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 * Homophobie
 
 
-* Klimaungerechtigkeit
+* Klimakatastrophe und Klimaungerechtigkeit
 
 
-* Schokolade auf Kosten von Menschen in armen Ländern
+* Schokolade auf Kosten von Menschen (in ärmeren Ländern)
 
 
-* Süßigkeiten auf Kosten von Tieren
+* Süßigkeiten auf Kosten von Tieren (durch Gelatine, Kuhmilch und Hühner-Eier)
 
 
 * Etc.
@@ -85,3 +88,17 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 [Speziesismus](https://de.wikipedia.org/wiki/Speziesismus) "bezeichnet die moralische Diskriminierung von Lebewesen ausschließlich aufgrund ihrer Artzugehörigkeit."
 
 {{< youtube CBz_7aA19Vc >}}
+
+
+## Geschichte
+
+### Der europäische Rassismus: "Rottet die Bestien aus"
+
+arte-Doku, 2022:
+
+* Artikel: https://www.deutschlandfunkkultur.de/raoul-peck-rottet-die-bestien-aus-100.html, 8 min Audio
+* Filmtipp: https://www.youtube.com/watch?v=Smoi1QJ95OM, 2 min
+
+"Die verstörende Überheblichkeit der Ignoranz" des europäischen Rassismus:
+
+{{< youtube eojZW6xo3T8 >}}
