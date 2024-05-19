@@ -95,6 +95,8 @@ Hilfsmittel:
 {{< attachments title="Menschen verursachen eine Menge Leid."       folder="designs-2024-05/4" >}}
 {{< attachments title="Unfaire Welt."                               folder="designs-2024-05/5" >}}
 {{< attachments title="Keine weiteren Lohnsklaven."                 folder="designs-2024-05/6" >}}
+{{< attachments title="Rette ein Klimaopfer, indem zu keins zeugst."folder="designs-2024-05/7" >}}
+{{< attachments title="Vasektomie kostenlos. Klimaopfer verhindern."folder="designs-2024-05/8" >}}
 
 
 ## Bilder
