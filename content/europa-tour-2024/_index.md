@@ -9,7 +9,7 @@ type = 'docs'
 
 [![](https://dontprocreate.org/wp-content/uploads/2024/04/Banner-for-The-EuropeAN-Tour-in-the-Website-1.jpg)](https://dontprocreate.org)
 
-(AN steht für Antinatalismus)
+{{< youtube 8H6wLXNJP88 >}}
 
 [Alle Details inklusive **Tourplan** auf dontprocreate.org](https://dontprocreate.org)
 
