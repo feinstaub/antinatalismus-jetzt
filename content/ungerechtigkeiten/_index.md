@@ -23,6 +23,47 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 
 ## Gegenüber Menschen
 
+### Missbrauch
+
+* [Missbrauch von Kindern](https://de.wikipedia.org/wiki/Sexueller_Missbrauch_von_Kindern),
+    "Die Täter sind Erwachsene, aber auch Jugendliche oder andere Kinder, nicht immer, aber überwiegend männlichen Geschlechts und oft aus dem sozialen Nahraum des Kindes."
+
+
+### Hass gegen Frauen
+
+* "Der alltägliche Mordversuch: Gewalt gegen Frauen | DokThema | Doku | BR"
+    {{< youtube LLNs3CmynPY >}}
+
+* "Feinbild Frau arte Dokumentation", von Ursula Duplantier", 2022, 50 min
+    {{< youtube VQXXRWaPxhM >}}
+
+
+### Ausländerfeindlichkeit
+
+* [Ganz unten](https://de.wikipedia.org/wiki/Ganz_unten) - "international erfolgreiches Buch des Autors und Journalisten
+    Günter Wallraff, das Menschenrechtsverletzungen und Ausländerfeindlichkeit in der Bundesrepublik Deutschland
+    in den frühen 1980er Jahren darstellt
+
+
+### Ausbeutung für digitale Dienste
+
+* ["Moritz Riesewieck: „Digitale Drecksarbeit“ Facebook vom Bösen erlösen"](https://www.deutschlandfunkkultur.de/moritz-riesewieck-digitale-drecksarbeit-facebook-vom-boesen-100.html), 2017
+
+
+### Homophobie
+
+* https://de.wikipedia.org/wiki/Homophobie
+
+
+### Klimakatastrophe
+
+* Klimakatastrophe und Klimaungerechtigkeit
+    * Überschwemmungen
+    * Dürre
+    * Ernteausfälle
+    * Flucht und Vertreibung
+
+
 ### Krieg
 
 * [Kriege](https://de.wikipedia.org/wiki/Krieg)
@@ -42,28 +83,21 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 * [Julian Assange](https://de.wikipedia.org/wiki/Julian_Assange)
 
 
-### Missbrauch
+### Drogen: Nikotin
 
-* [Missbrauch von Kindern](https://de.wikipedia.org/wiki/Sexueller_Missbrauch_von_Kindern),
-    "Die Täter sind Erwachsene, aber auch Jugendliche oder andere Kinder, nicht immer, aber überwiegend männlichen Geschlechts und oft aus dem sozialen Nahraum des Kindes."
+"Smoking is Awesome" von kurzgesagt, 10 min, 2024:
+{{< youtube _rBPwu2uS-w >}}
 
-
-### Hass gegen Frauen
-
-* "Der alltägliche Mordversuch: Gewalt gegen Frauen | DokThema | Doku | BR"
-    {{< youtube LLNs3CmynPY >}}
-
-* "Feinbild Frau arte Dokumentation", von Ursula Duplantier", 2022, 50 min
-    {{< youtube VQXXRWaPxhM >}}
+Kommentar zu diesem Video:
+"This video started so positive and slowly turned into nightmare, but that's what smoking is."
 
 
-### Ausbeutung für digitale Dienste
+### Drogen: Alkohol
 
-* ["Moritz Riesewieck: „Digitale Drecksarbeit“ Facebook vom Bösen erlösen"](https://www.deutschlandfunkkultur.de/moritz-riesewieck-digitale-drecksarbeit-facebook-vom-boesen-100.html), 2017
+...
 
 
-### Drogen
-(inklusive Alkohol und Tabak)
+### Drogen: Weitere
 
 "Sehnsucht nach Rausch - Drogen und ihre Folgen", 2023, hr-fernsehen
 
@@ -79,23 +113,9 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 
 ### Weitere
 
-* Klimakatastrophe und Klimaungerechtigkeit
-    * Überschwemmungen
-    * Dürre
-    * Ernteausfälle
-    * Flucht und Vertreibung
-
-
-* Homophobie
-
-
 * Schokolade auf Kosten von Menschen (in ärmeren Ländern)
 
-
 * Süßigkeiten auf Kosten von Tieren (durch Gelatine, Kuhmilch und Hühner-Eier)
-
-
-* Etc.
 
 
 ## Gegenüber anderen Tieren
