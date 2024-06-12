@@ -9,19 +9,19 @@ weight = 23
 ![](images/Chicago_Museum_Prints_and_Drawings_Albrecht_D_rer-1462875.jpg)
 
 Die Welt ist unfair und ungerecht. Außerdem gefährlich.
-Zusätzlich verursachen Menschen selber viel Leid
-und Ungerechtigkeiten.
+Zusätzlich fügen sich Menschen gegenseitig Leid zu;
+vor allem von denen, die privilegiert sind und Macht haben, gegenüber Schwächeren.
 
-Hier präsentieren wir eine Auswahl von Unrecht und anderem Leid,
-die es gar nicht erst hätte geben sollen.
+Wenn sich Menschen mit den antinatalistischen Schlüssen in der Diskussion auseinandersetzen,
+ist oftmals zu beobachten, dass sich die Welt schön geredet wird.
+Auch wird gesagt, andereswo in der Welt sei es schlecht, aber doch nicht hier in Deutschland.
 
-Sich dieses Leid zu vergegenwärtigen kann Gefühle von Schmerz und Ohnmacht hervorufen.
-Die Realität bewusst wahrzunehmen ist aber die Grundlage die Ohnmacht zu überwinden
-und sich im Hier und Jetzt mindestens einem dieser Probleme zu widmen
-und mitzuhelfen, das dahinterstehende Leid zu lindern.
+Als Erinnerung, wo - auch in Deutschland - alltäglich Leid präsent ist,
+haben wir hier eine Auswahl von Leid und Ungerechtigkeiten zusammengestellt.
+Leid, das es gar nicht erst hätte geben sollen.
 
 
-## Gegenüber Menschen
+## Menschen an Menschen, direkt
 
 ### Missbrauch
 
@@ -45,6 +45,19 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
     in den frühen 1980er Jahren darstellt
 
 
+### Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
+
+arte-Doku, 2022:
+
+* Artikel: https://www.deutschlandfunkkultur.de/raoul-peck-rottet-die-bestien-aus-100.html, 8 min Audio
+* Filmtipp: https://www.youtube.com/watch?v=Smoi1QJ95OM, 2 min
+* Siehe auch [Bisons töten, um Menschen zu vertreiben]({{< ref "#a__bisons_toeten" >}})
+
+"Die verstörende Überheblichkeit der Ignoranz" des europäischen Rassismus:
+
+{{< youtube eojZW6xo3T8 >}}
+
+
 ### Ausbeutung für digitale Dienste
 
 * ["Moritz Riesewieck: „Digitale Drecksarbeit“ Facebook vom Bösen erlösen"](https://www.deutschlandfunkkultur.de/moritz-riesewieck-digitale-drecksarbeit-facebook-vom-boesen-100.html), 2017
@@ -53,15 +66,6 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
 ### Homophobie
 
 * https://de.wikipedia.org/wiki/Homophobie
-
-
-### Klimakatastrophe
-
-* Klimakatastrophe und Klimaungerechtigkeit
-    * Überschwemmungen
-    * Dürre
-    * Ernteausfälle
-    * Flucht und Vertreibung
 
 
 ### Krieg
@@ -81,6 +85,17 @@ und mitzuhelfen, das dahinterstehende Leid zu lindern.
         "Gib Gefangenen Hoffnung, schreib einen Brief"
 
 * [Julian Assange](https://de.wikipedia.org/wiki/Julian_Assange)
+
+
+## Menschen an Menschen, systemisch
+
+### Klimakatastrophe
+
+* Klimakatastrophe und Klimaungerechtigkeit
+    * Überschwemmungen
+    * Dürre
+    * Ernteausfälle
+    * Flucht und Vertreibung
 
 
 ### Drogen: Nikotin
@@ -118,7 +133,7 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 * Süßigkeiten auf Kosten von Tieren (durch Gelatine, Kuhmilch und Hühner-Eier)
 
 
-## Gegenüber anderen Tieren
+## Menschen an Tieren
 
 ### Speziesismus
 
@@ -139,18 +154,3 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
     (in Form von Lebensmitteln, Brennstoff, Kleidung und Zelten) zu entziehen."
 
 * Siehe auch [Europäischer Rassismus]({{< ref "#a__europ_rassismus" >}})
-
-
-## Geschichte
-
-### Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
-
-arte-Doku, 2022:
-
-* Artikel: https://www.deutschlandfunkkultur.de/raoul-peck-rottet-die-bestien-aus-100.html, 8 min Audio
-* Filmtipp: https://www.youtube.com/watch?v=Smoi1QJ95OM, 2 min
-* Siehe auch [Bisons töten, um Menschen zu vertreiben]({{< ref "#a__bisons_toeten" >}})
-
-"Die verstörende Überheblichkeit der Ignoranz" des europäischen Rassismus:
-
-{{< youtube eojZW6xo3T8 >}}
