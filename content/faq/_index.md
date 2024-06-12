@@ -100,3 +100,67 @@ geholt worden zu sein.
 ![](https://www.vhemt.org/vhemt.gif)
 
 Hier geht es zu den Fragen auf der VHEMT-Webseite: https://www.vhemt.org/dindex.htm
+
+
+## Auf stophavingkids.org
+
+https://www.stophavingkids.org/fcqs
+
+* Does Stop Having Kids hate kids?
+
+* Does Stop Having Kids hate parents?
+
+* Is Stop Having Kids trying to ban human procreation?
+
+* Does Stop Having Kids support abortion?
+
+* Stop Having Kids isn’t going to stop everyone from having kids.
+
+* I have kids. Can I still be antinatalist?
+
+* If your mother never had you then you wouldn’t be here.
+
+* Does Stop Having Kids support eugenics or population control?
+
+* Stop Having Kids is a message of racism and ecofascism.
+
+* The world will end if humans cease to exist.
+
+* Having kids is a personal choice.
+
+* Humans aren’t the problem. The problem is capitalism, corporations, and the system.
+
+* Humans need to keep having kids because one of them could fix the world.
+
+* I don’t think people should be having a bunch of kids, but one kid is fine.
+
+* Stop Having Kids is negative.
+
+* If people are going to encourage other people to adopt then why don’t they adopt?
+
+* If people stopped having kids what kids would there be to adopt?
+
+* Why don’t you just kill yourselves? Isn’t that what you should do if you want to stay aligned with your message?
+
+* Does Stop Having Kids just want to kill all humans?
+
+* Wouldn’t it be a bad thing if the human species ceased to exist?
+
+* Intelligent people should be having kids, but unintelligent people shouldn’t.
+{{< expand >}}
+"Ouch. We hate to break it to you, but intelligent parents can have unintelligent kids and unintelligent parents can have intelligent kids. Compassionate parents can have malicious or apathetic children and malicious or apathetic parents can have compassionate children. Life isn't as simple as many of us want to believe it is. What makes someone intelligent enough to have kids these days anyway? SHK views willful procreation as an inherently unintelligent choice no matter what the circumstances are of the parents or the world at large. [...]"
+{{< /expand >}}
+
+
+Missverständnisse https://www.stophavingkids.org/misconceptions:
+
+* "SHK hates kids and parents"
+* "SHK leads to extinction"
+* "SHK is anti-choice"
+* "SHK is eugenics"
+* "SHK is racist"
+* "SHK targets poor people"
+* "SHK is miserable"
+* "SHK is ecofascist"
+* "SHK is malthusian"
+* "SHK is not apolitical"
