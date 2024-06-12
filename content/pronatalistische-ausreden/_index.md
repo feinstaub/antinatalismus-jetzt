@@ -14,6 +14,7 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
 
 ![](images/desperate_sad_depressed_cry_hopeless_loss_concern_teenager-1274362-crop2.jpg)
 
+### Teil 1
 * If life is so bad why don’t you just kill yourselves?
 * My life is good, why would my children’s lives be different?
 * People decide for themselves if their lives are worthy
@@ -52,7 +53,17 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
 * With all the difficulties if I could never exist I would not choose that
 * The interest of the parents to reproduce should be balanced with the risks for children
 * It is better to live, even if it means experiencing negative things, than not to live at all
+
+### Teil 2: Freude/Leid-Asymmetrie
 * Reproduction is morally justified because for most people the pleasures are worth the suffering
+    * ...siehe Webseite...
+    * Ergänzung: Freude/Leid-Asymmetrie, Variante 2:
+        **"Die Freude einer nicht existierenden Person ist hypothetisch.
+        Das Leid einer existierenden Person ist real."**
+        Wenn jemand die Wahl hat, an hypothetische Freude zu denken oder reales Leid zu produzieren.
+        Welche Wahl ist die moralisch richtige?
+
+### Teil 3
 * How can you force something on someone who doesn’t exist?
 * If your parents had decided not to create you, you wouldn't exist
 * You’re just negative and depressed people who see nothing good in life
