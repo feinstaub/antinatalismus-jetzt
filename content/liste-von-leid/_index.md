@@ -26,7 +26,14 @@ Leid, das es gar nicht erst hätte geben sollen.
 ### Missbrauch
 
 * [Missbrauch von Kindern](https://de.wikipedia.org/wiki/Sexueller_Missbrauch_von_Kindern),
-    "Die Täter sind Erwachsene, aber auch Jugendliche oder andere Kinder, nicht immer, aber überwiegend männlichen Geschlechts und oft aus dem sozialen Nahraum des Kindes."
+    "Die Täter sind Erwachsene, aber auch Jugendliche oder andere Kinder, nicht immer,
+    aber überwiegend männlichen Geschlechts und oft aus dem sozialen Nahraum des Kindes."
+
+
+### Häusliche Gewalt
+
+* ["Wir haben einen tief sitzenden Frauenhass"](https://www.tagesschau.de/inland/gesellschaft/haeusliche-gewalt-128.html),
+    Interview, tagesschau, 2024
 
 
 ### Hass gegen Frauen
@@ -137,7 +144,8 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 
 ### Speziesismus
 
-[Speziesismus](https://de.wikipedia.org/wiki/Speziesismus) "bezeichnet die moralische Diskriminierung von Lebewesen ausschließlich aufgrund ihrer Artzugehörigkeit."
+[Speziesismus](https://de.wikipedia.org/wiki/Speziesismus)
+"bezeichnet die moralische Diskriminierung von Lebewesen ausschließlich aufgrund ihrer Artzugehörigkeit."
 
 {{< youtube CBz_7aA19Vc >}}
 
