@@ -10,7 +10,7 @@ type = 'docs'
 
 Das Team Deutschland ist im Aufbau.
 
-Vorläufig erreichst du uns per [E-Mail](mailto:codestruct@posteo.org). Ansprechperson ist Gregor.
+Vorläufig erreichst du uns per [E-Mail](mailto:antinat@posteo.de).
 
 Schreib uns gerne für alle Fragen, die die Webseite nicht beantworten konnte.
 
@@ -19,7 +19,7 @@ Schreib uns gerne für alle Fragen, die die Webseite nicht beantworten konnte.
 
 ## Technisch
 
-### Bildquellen
+{{< details "Bildquellen" >}}
 
 https://pxhere.com - Bilder mit CC0 Lizenz
 
@@ -36,6 +36,8 @@ https://pxhere.com/en/photo/1274362 - Sadness, Person am Fenster
 https://pxhere.com/en/photo/1462875 - The Michelfeldt Tapestry (Allegory on Social Injustice)
 
 https://pxhere.com/en/photo/1173337 - Welcome on Board
+
+{{< /details >}}
 
 
 ### Webseite
