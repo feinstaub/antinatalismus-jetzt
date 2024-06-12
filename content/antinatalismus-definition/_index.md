@@ -44,7 +44,7 @@ Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
 
 ## Hinschauen
 
-Uns ist bewusst, dass die Beschäftigung mit all dem [Leid in der Welt](../ungerechtigkeiten) - insbesondere für empathische Menschen - sehr schmerzlich ist.
+Uns ist bewusst, dass die Beschäftigung mit all dem [Leid in der Welt]({{< ref "/liste-von-leid" >}}) - insbesondere für empathische Menschen - sehr schmerzlich ist.
 Wir möchten jedoch jede:n ermutigen, sich diesem Leid nicht zu verschließen und offen hinzusehen.
 Dann ist viel leichter zu verstehen,
 warum Menschen in der antinatalistischen Position einen **wohlbegründeten und ernstzunehmenden Standpunkt** sehen.
@@ -53,7 +53,7 @@ warum Menschen in der antinatalistischen Position einen **wohlbegründeten und e
 ## Keine (kurzfristige) Lösung für alles
 
 Uns ist es wichtig zu betonen, dass wir den Antinatalismus - also der freiwillige Verzicht auf (weitere) eigene Fortpflanzung - nicht
-als DIE Lösung für alle [Probleme](../ungerechtigkeiten) ansehen. Vor allem nicht kurzfristig.
+als DIE Lösung für alle [Probleme]({{< ref "/liste-von-leid" >}}) ansehen. Vor allem nicht kurzfristig.
 Einerseits ist es korrekt, dass die konsequente Anwendung mittel- bis langfristig zum Ende all jener Probleme führt, die
 
 * die wir Menschen uns untereinander zufügen,
@@ -63,7 +63,7 @@ Einerseits ist es korrekt, dass die konsequente Anwendung mittel- bis langfristi
 
 ## Handeln
 
-Andererseits treten wir dafür ein, die [vielen Probleme und Ungerechtigkeiten](../ungerechtigkeiten),
+Andererseits treten wir dafür ein, die [vielen Probleme und Ungerechtigkeiten]({{< ref "/liste-von-leid" >}}),
 die im Hier und Jetzt bestehen,
 wahrzunehmen und nicht zu zögern, an deren Lösung zu arbeiten.
 Antinatalismus basiert auf Rationalität und Mitgefühl und in diesem Sinne sollten wir Menschen uns gegenseitig bestmöglich helfen.
@@ -75,10 +75,10 @@ Mit diesen Seiten möchten wir dazu beitragen, Antinatalismus als selbstverstän
 
 Weiter mit:
 
-* [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
-* [Antinatalistische Argumente](../antinatalistische-argumente)
-* [Pronatalistische Ausreden 😇](../pronatalistische-ausreden)
-* [Häufige Fragen (FAQ)](../faq)
-* [Liste mit Ungerechtigkeiten](../ungerechtigkeiten)
+* [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
+* [Antinatalistische Argumente]({{< ref "/antinatalistische-argumente" >}})
+* [Pronatalistische Ausreden 😇]({{< ref "/pronatalistische-ausreden" >}})
+* [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
+* [Liste mit Ungerechtigkeiten]({{< ref "/liste-von-leid" >}})
 
 "Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
