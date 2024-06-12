@@ -7,27 +7,12 @@ type = 'docs'
 
 # Antinatalismus-Ressourcen
 
-Hier sammeln wir Ressourcen, die sich mit Antinatalismus beschäftigen.
+Antinatalismus verstehen und vertiefen.
+
+Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 
-## Buch: "Antinatalismus" von Günther R. Eberhard, 2017
-
-[Antinatalismus - Warum es immer schlecht ist empfindungsfähige Wesen zu erschaffen](https://www.buecher.de/artikel/buch/antinatalismus/48163075/),
-mit Leseprobe
-
-![](images/cover-antinatalismus-guenther-eberhard-75.jpg)
-
-"Die Existenz von Leid setzt die Existenz von empfindungsfähigen Lebewesen voraus.
-Will man Leiden verhindern, dann muss man Leben verhindern!
-
-Diese unkonventionelle Ansicht versucht der Autor dieses Buches zu verteidigen.
-
-Untersucht werden verschiedene Ansätze und Themen, wie zum Beispiel:
-"Ist alles Leben notwendigerweise leidvoll?", "Ist es immer besser, nicht zu sein?",
-"Negativer Utilitarismus", "Recht auf Reproduktion"."
-
-
-## YouTube-Kanal: tofudog 🇬🇧
+## YouTube-Kanal: tofudog 🇬🇧 {#a__tofudog_youtube}
 
 [YouTube-Kanal von **tofudog**](https://www.youtube.com/@tofudog4u):
     "The **vegan antinatalist variety channel**. Here, we do a little bit of everything- as long as it's vegan."
@@ -35,6 +20,8 @@ Untersucht werden verschiedene Ansätze und Themen, wie zum Beispiel:
 "Book Review | **Anti-Natalism: Rejectionist Philosophy From Buddhism to Benatar by Ken Coates**":
 
 {{< youtube bwZCFjIcxUc >}}
+
+[Link zum Buch]({{< ref "#a__coates_2014" >}})
 
 "Talking to a Student About Antinatalism (Is it Wrong to Create New People?) | **Antinatalist Outreach**": ...
 
@@ -71,21 +58,21 @@ Video-Abstract: Element in Bioethics and Neuroethics, 2024:
 {{< vimeo 902504086 >}}
 
 
-## Buch: "Anti-Natalism: Rejectionist Philosophy from Buddhism to Benatar", Kenneth S. Coates, 2014 🇬🇧
+## Buch: "Anti-Natalism: Rejectionist Philosophy from Buddhism to Benatar", Kenneth S. Coates, 2014 🇬🇧 {#a__coates_2014}
 
 [Anti-Natalism: Rejectionist Philosophy from Buddhism to Benatar](https://www.goodreads.com/book/show/21929960-anti-natalism)
 
 ![](images/cover-anti-natalism-rejectionist-philosophy.jpg)
 
+[Video-Review auf tofudog]({{< ref "#a__tofudog_youtube" >}})
 
-## Weitere Ressourcen
 
-### Essay: "The Case Against Children - Among the antinatalists", 2024 {#a__harper_barber_2024}
+## Essay: "The Case Against Children - Among the antinatalists", 2024 🇬🇧 {#a__harper_barber_2024}
 
 [Essay von Elizabeth Barber, erschienen im Harper Magazin](https://harpers.org/archive/2024/03/the-case-against-children-elizabeth-barber/), 2024
 
 Die Autorin ist Mutter eines nicht selbst gezeugten Kindes und ist selber keine Antinatalistin.
-Sie hat in Antinatalismus-Kreisen recherchiert und diesen lesenswerten Essay geschrieben.
+**Sie hat in Antinatalismus-Kreisen recherchiert und diesen lesenswerten Essay geschrieben**.
 
 Aus dem Inhalt:
 
@@ -114,15 +101,35 @@ Aus dem Inhalt:
 [Interview mit der Autorin: #87 – Elizabeth Barber - The Exploring Antinatalism Podcast](https://podtail.com/de/podcast/exploring-antinatalism/-87-elizabeth-barber/), 2024
 
 
-### YouTube-Kanal: Lawrence Anton 🇬🇧
+## Buch: "Antinatalismus" von Günther R. Eberhard, 2017
+
+[Antinatalismus - Warum es immer schlecht ist empfindungsfähige Wesen zu erschaffen](https://www.buecher.de/artikel/buch/antinatalismus/48163075/),
+mit Leseprobe
+
+![](images/cover-antinatalismus-guenther-eberhard-75.jpg)
+
+"Die Existenz von Leid setzt die Existenz von empfindungsfähigen Lebewesen voraus.
+Will man Leiden verhindern, dann muss man Leben verhindern!
+
+Diese unkonventionelle Ansicht versucht der Autor dieses Buches zu verteidigen.
+
+Untersucht werden verschiedene Ansätze und Themen, wie zum Beispiel:
+"Ist alles Leben notwendigerweise leidvoll?", "Ist es immer besser, nicht zu sein?",
+"Negativer Utilitarismus", "Recht auf Reproduktion"."
+
+
+## YouTube-Kanal: Lawrence Anton 🇬🇧
 
 [YouTube-Kanal **Lawrence Anton**](https://www.youtube.com/@LawrenceAnton) -
     ausführliche Interviews; Einordnung des aktuellen Geschehens rund um Antinatalismus
 
 
-### Webseite: Don’t Procreate 🇬🇧
+## Webseite: Don’t Procreate 🇬🇧
 
 https://dontprocreate.org
+
+
+## Weitere Ressourcen
 
 
 ### Facebook-Gruppe: Positive Antinatalists 🇬🇧
@@ -151,20 +158,9 @@ Siehe auch [Essay dazu]({{< ref "#a__harper_barber_2024" >}}).
 
 * Webseite: https://www.vhemt.org/dindex.htm - deutsche Übersetzung für die Voluntary Human Extinction Movement
 
-* nytimes-Artikel über den Gründer **Les Knight**:
+* 🇬🇧 nytimes-Artikel über den Gründer **Les Knight**:
     [Earth Now Has 8 Billion Humans. This Man Wishes There Were None.](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html),
     2022-2023
-
-
-### Weitere 1
-
-* Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
-
-
-* Webseite: https://antinatalisminternational.com
-
-
-## Ressourcen, die das Thema ansprechen
 
 
 ### ARD-Doku: "Besser leben ohne Kinder?", 2022
@@ -176,7 +172,12 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
 18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
 
 
-### Weitere 2
+### Weitere
+
+* Diese Webseite: [Antinatalismus Jetzt.](https://antinatalismus-jetzt.de/) :-)
+
+* 🇬🇧 Webseite: [Antinatalism International](https://antinatalisminternational.com) - "Antinatalism International is a global organization advocating against procreation.
+    We aim to help facilitate the entrance of antinatalist philosophy into the mainstream consciousness of society."
 
 * Artikel: [**"Wer nicht geboren wird, hat keine Probleme"**](https://www.zeit.de/kultur/2018-04/antinatalismus-theophile-de-giraud-bevoelkerungswachstum-feminismus), über **Théophile de Giraud**
     zeit.de, 2018, Tobias Haberkorn,
@@ -184,14 +185,11 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
     Der Antinatalist Théophile de Giraud ist gegen das Leben an sich, meint das aber nicht persönlich.
     Hat er vielleicht sogar recht?"
 
-
 * arte-Doku: My so-called selfish life - Kinder? Nein, danke!, 2024
     * [My so-called selfish life - Kinder? Nein, danke! | Doku HD | ARTE](https://www.youtube.com/watch?v=grxoL0umVHA), 1 h 14 min
 
-
 * ORF-Doku: "Am Schauplatz: Leben ohne Kinder", 2023
     * [Am Schauplatz: Leben ohne Kinder](https://www.youtube.com/watch?v=xu5XQHcEQU8), 50 min
-
 
 * Webseite: Antinatalismus, von Karim Akerma
     * https://antinatalismus.wordpress.com/contact/,
@@ -199,32 +197,16 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
     Dies scheint unangefochten. Aber weit gefehlt: Wann immer Menschen so handeln,
     dass ein neuer Mensch zu leben beginnt, handeln sie dergestalt, dass ein Mensch sterben muss."
 
-
 * ZDF-Doku: 37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen, 2022
     * [37 Grad: Regretting Motherhood: Wenn Mütter keine Mütter sein wollen](https://www.youtube.com/watch?v=FOcVryZiIUI), 15 min
-
 
 * Artikel: ["**Kinderfrei leben - »Reproduktion erzeugt neue Lohnsklaven«**"](https://www.jungewelt.de/artikel/469607.kinderfrei-leben-reproduktion-erzeugt-neue-lohnsklaven.html),
     jungewelt.de, 2024, Barbara Eder,
     "Das Buch »Kinderfreie aller Länder, vereinigt euch!« argumentiert für eine Existenz ohne Nachwuchs. Ein Gespräch mit **Verena Brunschweiger**",
     mit **feministischer Perspektive**
 
-
 * Artikel: ["Griffin verzichtet auf Kinder, um die Erde zu schützen"](https://www.jetzt.de/kinderkriegen-kolumne/antinatalismus-keine-kinder-fuer-den-klimaschutz),
     jetzt.de, 2019, Franziska Koohestani
-
-
-**Legende**: Wir unterscheiden vier Kategorien:
-
-* (🚶, Ethik_I) Ethik mit Fokus auf das **Individuum**, das durch seine Zeugung Leid erfahren würde.
-* (🧑‍🤝‍🧑, Ethik_K) Ethik mit Fokus auf die negative Auswirkung, die ein neuer Mensch einzeln oder **kollektiv** auf **andere** hat,
-    z. B. als Teil der Menschheit, die Umweltprobleme verursacht und dadurch anderen (und auch sich selber) schadet
-* (🌐, Politisch) Mischung aus Ethik_I und Ethik_K mit politischer Motivation, z. B. aus einer feministischen Haltung heraus
-* (👌, Persönlich) Kinderlos oder "kinderfrei" aus persönlichen Gründen;
-    ein erfülltes Leben zu führen ist möglich, auch ohne sich fortzupflanzen;
-    und vor allem ohne, dass einem jemand dabei reinredet.
-
-Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 
 **Unsortiert** (deutschsprachig):

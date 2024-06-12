@@ -6,25 +6,11 @@ weight = 21
 
 # Pronatalistische Einwände und Missverständnisse
 
-...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
-
-## Verschiedenes
-
-### 🔹 Mein Kind könnte das Potential haben, die Welt zu verbessern
-
-* Besser die Sache im Hier und Jetzt selber in die Hand nehmen,
-    als die Probleme liegen zu lassen und die Verantwortung einfach weiterzugeben.
-    Vergleiche "Glückspiel mit dem Leben"-Argument.
-* Was auch möglich ist: Das Kind könnte später der nächste Diktator werden.
-* Um Kinder mit guten Werten zu erziehen, muss es kein biologisches Kind sein.
-    * Beispiel: Partnerschaften, bei denen ein Teil bereits ein oder mehrere Kinder mitbringt.
-    * Beispiel: Adoption.
-    * Beispiel: Bildungsarbeit an Schulen etc.
-
-
 ## Auf dontprocreate.org
 Die Antworten zu den einzelnen Punkten befinden sich unter
 [Common Pro-Natalists Excuses](https://dontprocreate.org/common-pro-natalists-excuses/) (dontprocreate.org):
+
+...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
 
 ![](images/desperate_sad_depressed_cry_hopeless_loss_concern_teenager-1274362-crop2.jpg)
 
@@ -87,8 +73,27 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
 * Most people’s lives are fine, you need to relax
 * How can you get consent from someone who doesn’t exist?
 
-Weiterlesen:
 
-* [Was ist Antinatalismus?](../antinatalismus-definition)
-* [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
-* [Häufige Fragen (FAQ)](../faq)
+## Auf stophavingkids.org
+
+Siehe [Häufige Fragen (FAQ) > stophavingkids.org]({{< ref "/faq#auf-stophavingkidsorg" >}})
+
+
+## Verschiedenes
+
+### 🔹 Mein Kind könnte das Potential haben, die Welt zu verbessern
+
+* Besser die Sache im Hier und Jetzt selber in die Hand nehmen,
+    als die Probleme liegen zu lassen und die Verantwortung einfach weiterzugeben.
+    Vergleiche "Glückspiel mit dem Leben"-Argument.
+* Was auch möglich ist: Das Kind könnte später der nächste Diktator werden.
+* Um Kinder mit guten Werten zu erziehen, muss es kein biologisches Kind sein.
+    * Beispiel: Partnerschaften, bei denen ein Teil bereits ein oder mehrere Kinder mitbringt.
+    * Beispiel: Adoption.
+    * Beispiel: Bildungsarbeit an Schulen etc.
+
+### Weiterlesen
+
+* [Was ist Antinatalismus?]({{< ref "/antinatalismus-definition" >}})
+* [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
+* [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
