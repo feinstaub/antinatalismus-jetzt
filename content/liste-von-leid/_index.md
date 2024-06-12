@@ -52,7 +52,7 @@ Leid, das es gar nicht erst hätte geben sollen.
     in den frühen 1980er Jahren darstellt
 
 
-### Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
+### Ignoranz: Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
 
 arte-Doku, 2022:
 
@@ -150,7 +150,12 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 {{< youtube CBz_7aA19Vc >}}
 
 
-### Bisons töten, um Menschen zu vertreiben {#a__bisons_toeten}
+Sei nicht speziesistisch, kurz erklärt (Intellekt, Spektrum, Beispiel Unfall, Beispiel verwundbar wie Babys):
+
+{{< youtube kGSeTQ63I4w >}}
+
+
+### Aus der Geschichte: Bisons töten, um Menschen zu vertreiben {#a__bisons_toeten}
 
 * https://www.fluter.de/native-americans-durch-bisonjagd-ausgerottet, 2019,
     "In kürzester Zeit töteten weiße Jäger Millionen Bisons und raubten so den nordamerikanischen Ureinwohnern die Lebensgrundlage."
