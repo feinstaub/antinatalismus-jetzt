@@ -6,7 +6,7 @@ weight = 20
 
 # Antinatalistische Argumente
 
-...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
+...deutsche Übersetzung im Aufbau... / Lesenswertes auf Deutsch: [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
 
 Liste übernommen von [Main Anti-Natalist Arguments](https://dontprocreate.org/main-anti-natalist-arguments/) (dontprocreate.org)
 
@@ -25,6 +25,6 @@ Liste übernommen von [Main Anti-Natalist Arguments](https://dontprocreate.org/m
 
 Weiterlesen:
 
-* [Was ist Antinatalismus?](../antinatalismus-definition)
-* [Antinatalismus-Ressourcen](../antinatalismus-ressourcen)
-* [Häufige Fragen (FAQ)](../faq)
+* [Was ist Antinatalismus?]({{< ref "/antinatalismus-definition" >}})
+* [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
+* [Häufige Fragen (FAQ)]({{< ref "/faq" >}})

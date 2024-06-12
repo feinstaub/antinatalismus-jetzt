@@ -21,12 +21,12 @@ Auf individueller Ebene gibt es eine einfache Konsequenz:
 
 ...für eine bessere Welt.
 
-AKTUELL: [Antinatalismus-Europa-Tour 2024](europa-tour-2024) - Komme gerne mit uns ins Gespräch und mach' mit :)
+AKTUELL: [Antinatalismus-Europa-Tour 2024]({{< ref "/europa-tour-2024" >}}) - Komme gerne mit uns ins Gespräch und mach' mit :)
 
 Weiterlesen:
 
-* [Was ist Antinatalismus?](antinatalismus-definition)
-* [Antinatalismus-Ressourcen](antinatalismus-ressourcen)
-* [Antinatalistische Argumente](antinatalistische-argumente)
-* [Pronatalistische Ausreden 😇](pronatalistische-ausreden)
-* [Häufige Fragen (FAQ)](faq)
+* [Was ist Antinatalismus?]({{< ref "/antinatalismus-definition" >}})
+* [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
+* [Antinatalistische Argumente]({{< ref "/antinatalistische-argumente" >}})
+* [Pronatalistische Ausreden 😇]({{< ref "/pronatalistische-ausreden" >}})
+* [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
