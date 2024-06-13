@@ -54,7 +54,7 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
 * The interest of the parents to reproduce should be balanced with the risks for children
 * It is better to live, even if it means experiencing negative things, than not to live at all
 
-### Teil 2: Freude/Leid-Asymmetrie
+### Teil 2: Freude/Leid-Asymmetrie und hypothetische Freude
 * Reproduction is morally justified because for most people the pleasures are worth the suffering
     * ...siehe Webseite...
     * Ergänzung: Freude/Leid-Asymmetrie, Variante 2:
@@ -62,6 +62,8 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
         Das Leid einer existierenden Person ist real."**
         Wenn jemand die Wahl hat, an hypothetische Freude zu denken oder reales Leid zu produzieren.
         Welche Wahl ist die moralisch richtige?
+        Oder: Man hat zwei Optionen: a) eine nicht-existierende hypothetische Freude oder b) ein real existierendes Leid einer Person
+        Was ist besser: a) oder b)?
 
 ### Teil 3
 * How can you force something on someone who doesn’t exist?
@@ -102,6 +104,24 @@ Siehe [Häufige Fragen (FAQ) > stophavingkids.org]({{< ref "/faq#auf-stophavingk
     * Beispiel: Partnerschaften, bei denen ein Teil bereits ein oder mehrere Kinder mitbringt.
     * Beispiel: [Adoption durchführen oder Pflegefamilie sein]({{< ref "/faq#a__andere_kinder_erziehen" >}}).
     * Beispiel: Bildungsarbeit an Schulen etc.
+
+
+### 🔹 Antinatalismus ist eine mutlose Haltung (Defätismus)
+
+{{< youtube jhWTEQEreI8 >}}
+
+"a defeatist attitude"?
+
+Analogie: Eltern; Kind; es gibt in der Nähe ein Bereich mit hoher Kriminalitätsrate;
+    das Kind soll wo hingehen, muss aber nicht unbedingt durch die kriminelle Gegend laufen;
+    warum sollte man das Kind trotzdem da durchschicken, wenn man genau weiß, was dort passieren könnte,
+    obwohl es auch einen anderen Weg gibt?
+
+Antinatalist:innen sagen: **Das Leben im Allgemeinen enthält eine Menge _Potential_ für Leid und Schaden
+UND _garantierte_ Schäden UND _garantierten_ Tod**. Es ist also nicht mutlos, jemanden nicht in so eine Situation zu bringen.
+
+Weitere Shorts von Lawrence Anton: https://www.youtube.com/@LawrenceAnton/shorts
+
 
 ### Weiterlesen
 
