@@ -21,7 +21,7 @@ haben wir hier eine Auswahl von Leid und Ungerechtigkeiten zusammengestellt.
 Leid, das es gar nicht erst hätte geben sollen.
 
 
-## Menschen an Menschen, direkt
+## Menschen direkt an Menschen
 
 ### Missbrauch
 
@@ -104,7 +104,7 @@ arte-Doku, 2022:
 * [Julian Assange](https://de.wikipedia.org/wiki/Julian_Assange)
 
 
-## Menschen an Menschen, systemisch
+## Menschen durch die Gesellschaft
 
 ### Klimakatastrophe
 
@@ -113,6 +113,36 @@ arte-Doku, 2022:
     * Dürre
     * Ernteausfälle
     * Flucht und Vertreibung
+
+
+### Junge Menschen: 75 Prozent: "Die Zukunft ist beängstigend"
+
+* https://www.zdf.de/nachrichten/panorama/klimakrise-angst-kinder-jugendliche-studie-100.html, 2021
+    * "Zukunftsangst und verminderter Kinderwunsch:
+    Junge Menschen sorgen sich über die Klimakrise - mit psychischen Folgen.
+    Das zeigt eine internationale wissenschaftliche Studie."
+    * "75 Prozent stimmten der Aussage "Die Zukunft ist beängstigend" zu, mehr als die Hälfte
+    (55 Prozent) meint, sie hätten weniger Chancen als ihre Eltern."
+    * "56 Prozent der Befragten glauben, dass die Menschheit "dem Untergang geweiht" sei."
+    * "Zwei Drittel gaben zudem an, sich traurig und ängstlich zu fühlen. Viele empfinden Angst, Wut, Verzweiflung, Trauer und Scham"
+    * "Ohne angemessenes politisches Handeln gegen die Klimakrise steht die psychische Gesundheit einer ganzen Generation auf dem Spiel.
+        -- Stephan Heinzel, Klinische Psychologie und Psychotherapie"
+    * "Die Angst unserer Kinder ist eine völlig rationale Reaktion angesichts der unzureichenden Reaktionen der Regierungen auf den Klimawandel.
+    Was müssen Regierungen noch hören, um Maßnahmen zu ergreifen?
+        -- Caroline Hickman, University of Bath"
+    * "Sieben akademische Einrichtungen waren an der Analyse beteiligt,
+        darunter die University of Bath, die University of East Anglia und der Oxford Health NHS Foundation Trust."
+
+
+### SINUS-Jugendstudie 2024: "Die 14- bis 17-Jährigen sind besorgter denn je"
+
+* https://www.bpb.de/die-bpb/presse/pressemitteilungen/549425/sinus-jugendstudie-2024-wie-ticken-jugendliche/
+    * "Die Vielzahl von Krisen und Problemen wie Kriege, Energieknappheit,
+    Inflation oder Klimawandel, die sich mitunter überlagern und verstärken,
+    stimmt die Jugendlichen in ihrem Allgemeinbefinden ernster und besorgter denn je."
+    * "Viele bewahren sich eine (zweck)optimistische Grundhaltung und schauen für sich persönlich positiv in die Zukunft.
+    Viele der befragten Jugendlichen haben „Copingstrategien“ entwickelt und wirken insgesamt resilient."
+    * "Die Akzeptanz von Diversität nimmt zu. Die Jugendlichen sind „aware“, aber nicht „woke“."
 
 
 ### 1.000 Vollwaisenkinder- und Jugendliche pro Jahr
