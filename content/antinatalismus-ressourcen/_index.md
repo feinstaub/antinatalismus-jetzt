@@ -28,6 +28,8 @@ Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 ## Buch: "Better Never to have been" von David Benatar, 2006 🇬🇧
 
+Empfehlenswerter Einstieg zum Antinatalismus:
+
 [Better Never to have been: The Harm of Coming into Existence](https://www.goodreads.com/book/show/660518.Better_Never_to_Have_Been)
 
 ![](images/cover-better-never-to-have-been.jpg)
@@ -65,6 +67,12 @@ Video-Abstract: Element in Bioethics and Neuroethics, 2024:
 ![](images/cover-anti-natalism-rejectionist-philosophy.jpg)
 
 [Video-Review auf tofudog]({{< ref "#a__tofudog_youtube" >}})
+
+Aus dem Inhalt:
+
+* ...
+* Schopenhauer
+* ...
 
 
 ## Essay: "The Case Against Children - Among the antinatalists", 2024 🇬🇧 {#a__harper_barber_2024}
