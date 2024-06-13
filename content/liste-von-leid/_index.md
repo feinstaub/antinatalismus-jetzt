@@ -84,6 +84,16 @@ arte-Doku, 2022:
 * [Vertreibungen](https://de.wikipedia.org/wiki/Vertreibung)
 
 
+### Experimente mit Waisenkindern
+
+* https://de.m.wikipedia.org/wiki/Waise#Experimente_mit_Waisen
+    * Sprachexperimente
+    * Pharmazeutische Experimente
+    * Medizinische Experimente
+    * Untersuchungen zur Bindungstheorie
+    * Biologische und Neurochirurgische Experimente
+
+
 ### Folter
 
 * [Liste der Foltermethoden](https://de.wikipedia.org/wiki/Folterinstrument)
@@ -103,6 +113,24 @@ arte-Doku, 2022:
     * Dürre
     * Ernteausfälle
     * Flucht und Vertreibung
+
+
+### 1.000 Vollwaisenkinder- und Jugendliche pro Jahr
+
+* In Deutschland, Quelle: https://de.m.wikipedia.org/wiki/Waise
+
+
+### 50.000 Obdachlose
+
+* In Deutschland, 2022: "**50.000** davon lebten ganz ohne Unterkunft auf der Straße, waren also obdachlos",
+    Quelle: https://www.tagesschau.de/inland/gesellschaft/wohnungslose-deutschland-statistik-100.html
+
+
+### 100.000 Schwangerschaftsabbrüche pro Jahr
+
+* In Deutschland, 2023: über **100.000**,
+    Quelle: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Schwangerschaftsabbrueche/_inhalt.html,
+    Das sind "63 Abbrüche je 10 000 Frauen".
 
 
 ### Drogen: Nikotin

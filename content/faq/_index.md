@@ -147,9 +147,9 @@ https://www.stophavingkids.org/fcqs
 * Wouldn’t it be a bad thing if the human species ceased to exist?
 
 * Intelligent people should be having kids, but unintelligent people shouldn’t.
-{{< expand >}}
+{{< details >}}
 "Ouch. We hate to break it to you, but intelligent parents can have unintelligent kids and unintelligent parents can have intelligent kids. Compassionate parents can have malicious or apathetic children and malicious or apathetic parents can have compassionate children. Life isn't as simple as many of us want to believe it is. What makes someone intelligent enough to have kids these days anyway? SHK views willful procreation as an inherently unintelligent choice no matter what the circumstances are of the parents or the world at large. [...]"
-{{< /expand >}}
+{{< /details >}}
 
 
 Missverständnisse https://www.stophavingkids.org/misconceptions:
