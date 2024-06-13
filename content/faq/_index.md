@@ -6,7 +6,29 @@ weight = 22
 
 # Häufige Fragen
 
-## Eltern und Wunsch nach eigenen Kindern
+## Kinderwunsch
+
+### 🔹 Ich möchte gerne eine Familie haben und Kinder erziehen. {#a__andere_kinder_erziehen}
+
+Wenn eine eigene Familie und Kindererziehung gewünscht ist, dann gibt es verschiedene Optionen:
+
+* In eine Partnerschaft gehen, wo ein Teil bereits ein oder mehrere Kinder mitbringt.
+
+* **Pflegefamilie sein**
+
+* Die **Adoption** von bereits vorhandenen Kindern ist ein weiterer möglicher Weg,
+    den Wunsch nach Kindererziehung ohne eigene Fortpflanzung zu erreichen.
+
+**Doku Pflegefamilie**: "Pflegefamilien dringend gesucht: Immer mehr Kinder brauchen Pflegeeltern | Doku | DokThema | BR"
+{{< youtube -Xwh8nlqQfE >}}
+"Diese Dokumentation handelt von der Suche nach Pflegefamilien und der Erfahrung von Pflegeeltern.
+Sie bieten den Kindern ein neues Zuhause, Geborgenheit und die Zuneigung, die sie von ihren leiblichen Eltern oft nicht bekommen haben."
+
+**Doku Adoption**: "Adoption: Unser Weg zum Kind (1/3) | WDR Doku"
+{{< youtube fiVuoDgNAIc >}}
+"Adoption. Bevor es dazu kommt, haben Paare oft kaum etwas unversucht gelassen, um ein leibliches Kind zu bekommen.
+Künstliche Befruchtungen, abgebrochene Schwangerschaften, Fehlgeburten. Die Adoption ist für viele die letzte Chance, überhaupt ein Kind zu bekommen."
+
 
 ### 🔹 Sollen Eltern mit selbst gezeugten Kindern ihre Entscheidung bedauern?
 
@@ -23,14 +45,6 @@ und die Argumente an andere Menschen weitergegeben werden. 🙂
 
 Auch Eltern von selbst gezeugten Kindern können Antinatalisten sein,
 wenn sie erst später davon erfahren haben.
-
-
-### 🔹 Ich möchte gerne eine Familie haben und Kinder erziehen.
-
-Wenn eine eigene Familie und Kindererziehung gewünscht ist, dann ist
-die **Adoption** ([Websuche](https://www.qwant.com/?q=adoption+in+deutschland&t=web))
-von bereits vorhandenen Kindern ein möglicher - wenn auch schwierigerer - Weg,
-dies ohne eigene Fortpflanzung zu erreichen.
 
 
 ### 🔹 Was ist bedeutet "zeugungsbedingte Selbstkorrumpierung"?

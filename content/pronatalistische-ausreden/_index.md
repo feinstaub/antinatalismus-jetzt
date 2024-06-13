@@ -90,7 +90,7 @@ Die Antworten zu den einzelnen Punkten befinden sich unter
 Siehe [Häufige Fragen (FAQ) > stophavingkids.org]({{< ref "/faq#auf-stophavingkidsorg" >}})
 
 
-## Verschiedenes
+## Weitere
 
 ### 🔹 Mein Kind könnte das Potential haben, die Welt zu verbessern
 
@@ -100,7 +100,7 @@ Siehe [Häufige Fragen (FAQ) > stophavingkids.org]({{< ref "/faq#auf-stophavingk
 * Was auch möglich ist: Das Kind könnte später der nächste Diktator werden.
 * Um Kinder mit guten Werten zu erziehen, muss es kein biologisches Kind sein.
     * Beispiel: Partnerschaften, bei denen ein Teil bereits ein oder mehrere Kinder mitbringt.
-    * Beispiel: Adoption.
+    * Beispiel: [Adoption durchführen oder Pflegefamilie sein]({{< ref "/faq#a__andere_kinder_erziehen" >}}).
     * Beispiel: Bildungsarbeit an Schulen etc.
 
 ### Weiterlesen
