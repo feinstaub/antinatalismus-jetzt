@@ -191,6 +191,29 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 <!--    {{< youtube BeQzwylndmk >}}     "Die Drogenhölle auf den Straßen Amerikas I Weltspiegel", 2024 -->
 
 
+### "Fehltage wegen kranker Psyche erreichen neuen Höchststand"
+
+* "Rheinland-Pfalz: Fehltage wegen Seelenleiden klettern auf Rekordwert", 2024,
+    * https://www.barmer.de/presse/bundeslaender-aktuell/rheinland-pfalz-saarland/archiv-pressemitteilungen/rlp-krankschreibungen-psyche-1270284
+    * https://www.barmer.de/presse/bundeslaender-aktuell/rheinland-pfalz-saarland/archiv-pressemitteilungen/fehltage-seelenleiden-rekordwert-1268024
+
+* "Fehltage wegen kranker Psyche erreichen neuen Höchststand", 2023,
+    * https://de.statista.com/infografik/18813/krankschreibungen-wegen-psychischer-erkrankungen-in-deutschland/
+
+
+### Angst vor dem Zahnarzt
+
+* https://www.zahnarzt-drseidel.de/angst-vorm-zahnarzt/, 2024
+    * "Verschiedenen Studien zufolge hat **60 bis 80 Prozent der Bevölkerung Angst vor einer geplanten Zahnbehandlung**
+        bzw. dem Besuch beim Zahnarzt und vernachlässigen daher oft ihre Zähne."
+    * 5 Millionen Menschen in Deutschland haben sogar panische Angst (Dentalphobie)
+
+* https://www.aok.de/pk/magazin/koerper-psyche/zaehne/angst-vor-dem-zahnarzt-was-tun/, 2023
+    * **Dentalphobie** oder Zahnbehandlungsphobie: "Angsterkrankung führt dazu, dass die Betroffenen Termine beim Zahnarzt
+        oder der Zahnärztin vermeiden – selbst wenn es nötig wäre.
+        Das betrifft zwar nur [sic!] etwa **fünf Prozent der Bevölkerung**, birgt allerdings gesundheitliche Risiken"
+
+
 ### Weitere
 
 * Schokolade auf Kosten von Menschen (in ärmeren Ländern)

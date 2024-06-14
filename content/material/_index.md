@@ -102,3 +102,67 @@ Hilfsmittel:
 ## Bilder
 
 * [Visualize Voluntary Human Extinction]({{< ref "/faq#a__aussterben" >}})
+
+
+## Kompakte Fakten-Templates
+
+Zusammenstellung aus:
+
+* [Was ist Antinatalismus?]({{< ref "/antinatalismus-definition" >}})
+* [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}})
+* [Antinatalistische Argumente]({{< ref "/antinatalistische-argumente" >}})
+* [Pronatalistische Ausreden 😇]({{< ref "/pronatalistische-ausreden" >}})
+* [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
+
+
+### Zur Freude/Leid-Asymmetrie
+
+{{< hint info >}}
+Vielleicht mal anders gefragt:
+Wenn du zwei Optionen hast:
+a) eine nur hypothetische Freude, die nicht realisiert wird, weil keine Person geschaffen wird, oder
+b) real existierendes Leid einer echten Person.
+Was ist besser: a) oder b)?
+{{< /hint >}}
+
+
+### "Die Zeiten waren nie besser, vor allem in Deutschland"
+{{< hint info >}}
+Ich stimme dir zu, dass sich einige Dinge in der Welt und hierzulande verbessert haben. Das Rauchverbot in Restaurants, etc.
+Daneben gibt es auch Dinge, die sich verschlechtert haben oder einfach noch nicht gut genug sind:
+Dazu zählen Homophobie, Hass gegen Frauen (https://youtu.be/LLNs3CmynPY),
+Angst vor dem Zahnarzt (5 Millionen haben sogar panische Angst: https://www.zahnarzt-drseidel.de/angst-vorm-zahnarzt/),
+Anzahl Suizide, Anzahl Waisenkinder, Alkoholmissbrauch,
+"Fehltage wegen kranker Psyche erreichen neuen Höchststand" (2023, https://de.statista.com/infografik/18813/krankschreibungen-wegen-psychischer-erkrankungen-in-deutschland/),
+Angst vor Jobverlust,
+SINUS-Jugendstudie 2024: “Die 14- bis 17-Jährigen sind besorgter denn je”.
+{{< /hint >}}
+
+
+## Zitate aus religiösen Schriften
+
+### Christentum / Die Bibel
+
+* https://bible.knowing-jesus.com/Deutsch/Prediger/4/1
+    * Prediger 4:1:
+        "Ich wandte mich und sah alle, die Unrecht leiden unter der Sonne;
+        und siehe, da waren Tränen derer, so Unrecht litten und hatten keinen Tröster;
+        und die ihnen Unrecht taten, waren zu mächtig, daß sie keinen Tröster haben konnten."
+    * 4:2: "Da lobte ich die Toten, die schon gestorben waren, mehr denn die Lebendigen, die noch das Leben hatten."
+    * 4:3: "**Und der noch nicht ist, ist besser denn alle beide**, und des Bösen nicht inne wird, das unter der Sonne geschieht."
+
+* https://bible.knowing-jesus.com/Deutsch/Hiob/3/11
+    * Hiob 3:11:
+        * "Warum bin ich nicht gestorben von Mutterleib an? Warum bin ich nicht umkommen, da ich aus dem Leibe kam?"
+        * 3:12: "Warum hat man mich auf den Schoß gesetzet? Warum bin ich mit Brüsten gesäuget?"
+        * 3:13: "So läge ich doch nun und wäre stille, schliefe und hätte Ruhe"
+        * 3:16: "oder wie eine unzeitige Geburt verborgen und nichts wäre, wie die jungen Kinder, die das Licht nie gesehen haben."
+
+* https://www.bible.com/de/bible/73/LUK.23.29-31.HFA
+    * Lukas 23:29-31 SCH2000:
+        "Denn siehe, es kommen Tage, da man sagen wird:
+        Glückselig sind die Unfruchtbaren, und die Leiber,
+        die nicht geboren, und die Brüste, die nicht gestillt haben!
+        Dann wird man anfangen, zu den Bergen zu sagen: Fallt über uns!
+        und zu den Hügeln: Bedeckt uns! Denn wenn man dies mit dem grünen Holz tut,
+        was wird mit dem dürren geschehen?"
