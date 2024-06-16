@@ -20,23 +20,25 @@ Als Erinnerung, wo - auch in Deutschland - alltäglich Leid präsent ist,
 haben wir hier eine Auswahl von Leid und Ungerechtigkeiten zusammengestellt.
 Leid, das es gar nicht erst hätte geben sollen.
 
+Markiert mit 🇩🇪: spezifisch in Deutschland, 🇪🇺: Europa, (🇩🇪, 🇪🇺): Mit-Verantwortung
+
 
 ## Menschen direkt an Menschen
 
-### Missbrauch
+### Missbrauch 🇩🇪
 
 * [Missbrauch von Kindern](https://de.wikipedia.org/wiki/Sexueller_Missbrauch_von_Kindern),
     "Die Täter sind Erwachsene, aber auch Jugendliche oder andere Kinder, nicht immer,
     aber überwiegend männlichen Geschlechts und oft aus dem sozialen Nahraum des Kindes."
 
 
-### Häusliche Gewalt
+### Häusliche Gewalt 🇩🇪
 
 * ["Wir haben einen tief sitzenden Frauenhass"](https://www.tagesschau.de/inland/gesellschaft/haeusliche-gewalt-128.html),
     Interview, tagesschau, 2024
 
 
-### Hass gegen Frauen
+### Hass gegen Frauen 🇩🇪
 
 * "Der alltägliche Mordversuch: Gewalt gegen Frauen | DokThema | Doku | BR"
     {{< youtube LLNs3CmynPY >}}
@@ -45,14 +47,14 @@ Leid, das es gar nicht erst hätte geben sollen.
     {{< youtube VQXXRWaPxhM >}}
 
 
-### Ausländerfeindlichkeit
+### Ausländerfeindlichkeit 🇩🇪
 
 * [Ganz unten](https://de.wikipedia.org/wiki/Ganz_unten) - "international erfolgreiches Buch des Autors und Journalisten
     Günter Wallraff, das Menschenrechtsverletzungen und Ausländerfeindlichkeit in der Bundesrepublik Deutschland
     in den frühen 1980er Jahren darstellt
 
 
-### Ignoranz: Der europäische Rassismus: "Rottet die Bestien aus" {#a__europ_rassismus}
+### Ignoranz: Der europäische Rassismus: "Rottet die Bestien aus" 🇪🇺 {#a__europ_rassismus}
 
 arte-Doku, 2022:
 
@@ -65,12 +67,12 @@ arte-Doku, 2022:
 {{< youtube eojZW6xo3T8 >}}
 
 
-### Ausbeutung für digitale Dienste
+### Ausbeutung für digitale Dienste (🇩🇪)
 
 * ["Moritz Riesewieck: „Digitale Drecksarbeit“ Facebook vom Bösen erlösen"](https://www.deutschlandfunkkultur.de/moritz-riesewieck-digitale-drecksarbeit-facebook-vom-boesen-100.html), 2017
 
 
-### Homophobie
+### Homophobie 🇩🇪
 
 * https://de.wikipedia.org/wiki/Homophobie
 
@@ -106,7 +108,7 @@ arte-Doku, 2022:
 
 ## Menschen durch die Gesellschaft
 
-### Klimakatastrophe
+### Klimakatastrophe 🇩🇪
 
 * Klimakatastrophe und Klimaungerechtigkeit
     * Überschwemmungen
@@ -115,7 +117,7 @@ arte-Doku, 2022:
     * Flucht und Vertreibung
 
 
-### Junge Menschen: 75 Prozent: "Die Zukunft ist beängstigend"
+### Junge Menschen: 75 Prozent: "Die Zukunft ist beängstigend" 🇩🇪
 
 * https://www.zdf.de/nachrichten/panorama/klimakrise-angst-kinder-jugendliche-studie-100.html, 2021
     * "Zukunftsangst und verminderter Kinderwunsch:
@@ -134,7 +136,7 @@ arte-Doku, 2022:
         darunter die University of Bath, die University of East Anglia und der Oxford Health NHS Foundation Trust."
 
 
-### SINUS-Jugendstudie 2024: "Die 14- bis 17-Jährigen sind besorgter denn je"
+### SINUS-Jugendstudie 2024: "Die 14- bis 17-Jährigen sind besorgter denn je" 🇩🇪
 
 * https://www.bpb.de/die-bpb/presse/pressemitteilungen/549425/sinus-jugendstudie-2024-wie-ticken-jugendliche/
     * "Die Vielzahl von Krisen und Problemen wie Kriege, Energieknappheit,
@@ -145,25 +147,25 @@ arte-Doku, 2022:
     * "Die Akzeptanz von Diversität nimmt zu. Die Jugendlichen sind „aware“, aber nicht „woke“."
 
 
-### 1.000 Vollwaisenkinder- und Jugendliche pro Jahr
+### 1.000 Vollwaisenkinder- und Jugendliche pro Jahr 🇩🇪
 
 * In Deutschland, Quelle: https://de.m.wikipedia.org/wiki/Waise
 
 
-### 50.000 Obdachlose
+### 50.000 Obdachlose 🇩🇪
 
 * In Deutschland, 2022: "**50.000** davon lebten ganz ohne Unterkunft auf der Straße, waren also obdachlos",
     Quelle: https://www.tagesschau.de/inland/gesellschaft/wohnungslose-deutschland-statistik-100.html
 
 
-### 100.000 Schwangerschaftsabbrüche pro Jahr
+### 100.000 Schwangerschaftsabbrüche pro Jahr 🇩🇪
 
 * In Deutschland, 2023: über **100.000**,
     Quelle: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Schwangerschaftsabbrueche/_inhalt.html,
     Das sind "63 Abbrüche je 10 000 Frauen".
 
 
-### Drogen: Nikotin
+### Drogen: Nikotin 🇩🇪
 
 "Smoking is Awesome" von kurzgesagt, 10 min, 2024:
 {{< youtube _rBPwu2uS-w >}}
@@ -172,12 +174,12 @@ Kommentar zu diesem Video:
 "This video started so positive and slowly turned into nightmare, but that's what smoking is."
 
 
-### Drogen: Alkohol
+### Drogen: Alkohol 🇩🇪
 
 ...
 
 
-### Drogen: Weitere
+### Drogen: Weitere 🇩🇪
 
 "Sehnsucht nach Rausch - Drogen und ihre Folgen", 2023, hr-fernsehen
 
@@ -191,7 +193,7 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
 <!--    {{< youtube BeQzwylndmk >}}     "Die Drogenhölle auf den Straßen Amerikas I Weltspiegel", 2024 -->
 
 
-### "Fehltage wegen kranker Psyche erreichen neuen Höchststand"
+### "Fehltage wegen kranker Psyche erreichen neuen Höchststand" 🇩🇪
 
 * "Rheinland-Pfalz: Fehltage wegen Seelenleiden klettern auf Rekordwert", 2024,
     * https://www.barmer.de/presse/bundeslaender-aktuell/rheinland-pfalz-saarland/archiv-pressemitteilungen/rlp-krankschreibungen-psyche-1270284
@@ -201,7 +203,7 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
     * https://de.statista.com/infografik/18813/krankschreibungen-wegen-psychischer-erkrankungen-in-deutschland/
 
 
-### Angst vor dem Zahnarzt
+### Angst vor dem Zahnarzt 🇩🇪
 
 * https://www.zahnarzt-drseidel.de/angst-vorm-zahnarzt/, 2024
     * "Verschiedenen Studien zufolge hat **60 bis 80 Prozent der Bevölkerung Angst vor einer geplanten Zahnbehandlung**
@@ -213,17 +215,22 @@ Das haben die Reporterinnen Isabell Kramer und Daniela Möllenkamp recherchiert.
         oder der Zahnärztin vermeiden – selbst wenn es nötig wäre.
         Das betrifft zwar nur [sic!] etwa **fünf Prozent der Bevölkerung**, birgt allerdings gesundheitliche Risiken"
 
+### Armut 🇩🇪
 
-### Weitere
+* In Deutschland: [Armut in Deutschland und ihre Auswirkungen auf die Gesellschaft](https://www.caritas.de/fuerprofis/fachthemen/armut/armut-in-deutschland-und-ihre-auswirkungen-auf-die-gesellschaft), caritas, 2023
 
-* Schokolade auf Kosten von Menschen (in ärmeren Ländern)
+* In anderen Ländern: siehe z. B.
+    [Südafrika: Tourismus im Township](https://www.daserste.de/information/politik-weltgeschehen/weltspiegel/sendung/suedafrika-tourismus-townships-100.html), weltspiegel, 2024
 
-* Süßigkeiten auf Kosten von Tieren (durch Gelatine, Kuhmilch und Hühner-Eier)
+
+### Kinderarbeit (🇩🇪)
+
+* Kakao/Schokolade auf Kosten von Menschen (in ärmeren Ländern)
 
 
 ## Menschen an Tieren
 
-### Speziesismus
+### Speziesismus 🇩🇪
 
 [Speziesismus](https://de.wikipedia.org/wiki/Speziesismus)
 "bezeichnet die moralische Diskriminierung von Lebewesen ausschließlich aufgrund ihrer Artzugehörigkeit."
@@ -235,8 +242,10 @@ Sei nicht speziesistisch, kurz erklärt (Intellekt, Spektrum, Beispiel Unfall, B
 
 {{< youtube kGSeTQ63I4w >}}
 
+* Süßigkeiten auf Kosten von Tieren (durch Gelatine, Kuhmilch und Hühner-Eier)
 
-### Aus der Geschichte: Bisons töten, um Menschen zu vertreiben {#a__bisons_toeten}
+
+### Aus der Geschichte: Bisons töten, um Menschen zu vertreiben 🇪🇺 {#a__bisons_toeten}
 
 * https://www.fluter.de/native-americans-durch-bisonjagd-ausgerottet, 2019,
     "In kürzester Zeit töteten weiße Jäger Millionen Bisons und raubten so den nordamerikanischen Ureinwohnern die Lebensgrundlage."
