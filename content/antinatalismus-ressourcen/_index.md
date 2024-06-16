@@ -139,6 +139,19 @@ https://dontprocreate.org
 
 ## Weitere Ressourcen
 
+### ARD-Doku: "Besser leben ohne Kinder?", 2022
+
+[Besser leben ohne Kinder? - Rabiat by Y-Kollektiv](https://www.ardmediathek.de/video/rabiat-by-y-kollektiv/besser-leben-ohne-kinder/ard/Y3JpZDovL3JhZGlvYnJlbWVuLmRlLzFmZTZkMzI0LTc2OGQtNGYxNC1hODRhLWZmZDgwOTEwZmJlMC9lcGlzb2RlL3VybjphcmQ6c2hvdzplMWM3NTc0YjYwZDVjODA0), 43 min
+
+Stellt unter anderem den Antinatalisten Karim Akerma vor.
+
+18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
+
+* Artikel über die Doku: ["Warum manche keine Kinder wollen: ARD-Reportage zur Antinatalisten-Bewegung"](https://www.rnd.de/medien/kein-kinderwunsch-ard-reportage-zur-antinatalisten-bewegung-JHHFUE73BRCLDNU6XRJQNCZHDA.html), 2022
+    * "Freiwillige Sterilisation ist nicht einfach zu haben."
+    * "Immerhin: Ein Verein setzt sich inzwischen für die Belange von Sterilisationswilligen ein.":
+        [Selbstbestimmt steril e. V.](https://www.selbstbestimmt-steril.de)
+
 
 ### Facebook-Gruppe: Positive Antinatalists 🇬🇧
 
@@ -169,20 +182,6 @@ Siehe auch [Essay dazu]({{< ref "#a__harper_barber_2024" >}}).
 * 🇬🇧 nytimes-Artikel über den Gründer **Les Knight**:
     [Earth Now Has 8 Billion Humans. This Man Wishes There Were None.](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html),
     2022-2023
-
-
-### ARD-Doku: "Besser leben ohne Kinder?", 2022
-
-[Besser leben ohne Kinder? - Rabiat by Y-Kollektiv](https://www.ardmediathek.de/video/rabiat-by-y-kollektiv/besser-leben-ohne-kinder/ard/Y3JpZDovL3JhZGlvYnJlbWVuLmRlLzFmZTZkMzI0LTc2OGQtNGYxNC1hODRhLWZmZDgwOTEwZmJlMC9lcGlzb2RlL3VybjphcmQ6c2hvdzplMWM3NTc0YjYwZDVjODA0), 43 min
-
-Stellt unter anderem den Antinatalisten Karim Akerma vor.
-
-18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
-
-* Artikel über die Doku: ["Warum manche keine Kinder wollen: ARD-Reportage zur Antinatalisten-Bewegung"](https://www.rnd.de/medien/kein-kinderwunsch-ard-reportage-zur-antinatalisten-bewegung-JHHFUE73BRCLDNU6XRJQNCZHDA.html), 2022
-    * "Freiwillige Sterilisation ist nicht einfach zu haben."
-    * "Immerhin: Ein Verein setzt sich inzwischen für die Belange von Sterilisationswilligen ein.":
-        [Selbstbestimmt steril e. V.](https://www.selbstbestimmt-steril.de)
 
 
 ### Weitere
