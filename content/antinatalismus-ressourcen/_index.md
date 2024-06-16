@@ -26,7 +26,7 @@ Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 "Talking to a Student About Antinatalism (Is it Wrong to Create New People?) | **Antinatalist Outreach**": ...
 
 
-## Buch: "Better Never to have been" von David Benatar, 2006 🇬🇧
+## Buch: "Better Never to Have Been" von David Benatar, 2006 🇬🇧 {#a__benatar_better_never_2006}
 
 Empfehlenswerter Einstieg zum Antinatalismus:
 
@@ -45,6 +45,8 @@ Empfehlenswerter Einstieg zum Antinatalismus:
 (4) It would be better if, as a result of there being no new people, humanity became extinct.
 
 These views may sound unbelievable--but anyone who reads Benatar will be obliged to take them seriously."
+
+Siehe auch ["Besser, nicht geboren zu sein?", deutschsprachiges Buch, das Benatars Argumente untersucht]({{< ref "#a__hallich_besser_nicht_2022" >}}).
 
 
 ## Online-Buch: "Antinatalism, Extinction, and the End of Procreative Self-Corruption", 2024 🇬🇧 {#a__sukenick_selfcorr_2024}
@@ -107,6 +109,19 @@ Aus dem Inhalt:
 * David Benatar über Antinatalismus, Veganismus, Klimawandel und die menschliche Starrköpfigkeit
 
 [Interview mit der Autorin: #87 – Elizabeth Barber - The Exploring Antinatalism Podcast](https://podtail.com/de/podcast/exploring-antinatalism/-87-elizabeth-barber/), 2024
+
+
+## Buch: "Besser, nicht geboren zu sein?", Oliver Hallich, 2022 {#a__hallich_besser_nicht_2022}
+
+[Besser, nicht geboren zu sein? - Eine Verteidigung des Anti-Natalismus](https://link.springer.com/book/10.1007/978-3-662-65621-1)
+
+* "Erste deutschsprachige Abhandlung zum Anti-Natalismus in der analytischen Philosophie"
+* "Behandelt eine zentrale Frage der Reproduktionsethik"
+* "Kritische Untersuchung der einschlägigen Pro- und Contra-Argumente"
+
+"In der zeitgenössischen Reproduktionsethik werden intensiv moralische Probleme von Fortpflanzungstechniken wie Leihmutterschaft oder Gametenspende diskutiert. Erstaunlicherweise wird aber die fundamentale reproduktionsethische Frage, ob wir uns fortpflanzen sollten, kaum thematisiert. Auch Ethiken der Elternschaft erörtern zwar normative Probleme des Eltern-Kind-Verhältnisses und fragen nach der Grundlage parentaler Pflichten, äußern sich aber meist nicht zu der Frage, ob wir Eltern werden sollten. Der Anti-Natalismus, als dessen wichtigster zeitgenössischer Vertreter David Benatar gilt, widmet sich dieser zentralen Frage. Anti-Natalisten plädieren dafür, die Frage, ob wir uns fortpflanzen sollten, mit „Nein“ zu beantworten. In der vorliegenden Abhandlung wird nach der Tragfähigkeit anti-natalistischer Argumente gefragt; es wird zwischen verschiedenen Formen des Anti-Natalismus differenziert und dargelegt, in welcher Form sich ein Anti-Natalismus verteidigen lässt. Es wird deutlich,dass sich zwar keine Pflicht, sich nicht fortzupflanzen, begründen lässt, der Anti-Natalismus sich aber in einer bestimmten Form als kritikresistent erweist und zeigen kann, dass und warum es auch unter günstigen Umständen moralisch problematisch ist, Kinder in die Welt zu setzen."
+
+Siehe auch [Benatars Buch "Better Never to Have Been"]({{< ref "#a__benatar_better_never_2006" >}}).
 
 
 ## Buch: "Antinatalismus" von Günther R. Eberhard, 2017
@@ -222,7 +237,7 @@ So to my friends. Live your life to the fullest of its potential. Antinatalism i
 
 https://www.stophavingkids.org/
 
-Siehe auch [Essay dazu]({{< ref "#a__harper_barber_2024" >}}).
+Siehe auch [Essay von Elizabeth Barber über die Gründer:innen]({{< ref "#a__harper_barber_2024" >}}).
 
 
 ### Webseite: VHEMT
