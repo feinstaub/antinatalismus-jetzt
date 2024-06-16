@@ -153,6 +153,58 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
         [Selbstbestimmt steril e. V.](https://www.selbstbestimmt-steril.de)
 
 
+### Sozialforschung: Glücklich ohne Kind: Studie erklärt, warum manche Frauen nicht Mutter werden wollen, 2022, 2024
+
+* ["Sozialforschung Glücklich ohne Kind: Studie erklärt, warum manche Frauen nicht Mutter werden wollen"](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/gewollt-kinderlos-kinderfrei-frauen-studie-100.html), mdr, 2022
+    * "Neue Studie aus Gera revidiert bisherigen Forschungsstand"
+    * "Es gibt ein großes Bewusstsein dafür, dass Kinder viel Raum, Zeit und Energie einnehmen"
+        * "Annkatrin Heuschkel und Prof. Dr. Claudia Rahnfeld haben für die Duale Hochschule in Gera untersucht, warum manche Frauen kinderlos bleiben wollen.",
+            [Interview, 30 Minuten Audio](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/audio-kinderlos-kinderfrei-studie-hochschule-gera-100.html), 2022
+    * "Persönliche Gründe der Frauen gegen eigene Kinder", Top-Grund: "mehr Freizeit", Details siehe Graphik
+    * "Der nie empfundene Kinderwunsch"
+    * "Sozialer Druck und gesellschaftliche Bevormundung"
+    * "Studie entkräftet Vorurteile"
+    * verlinkt: [Interview, 15 Minuten Audio, mit Marie-Catherine Schaller, "Umso mehr Leute gefragt haben, desto mehr war ich dagegen"](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/audio-kinderlos-kinderfrei-leben-interview-marie-schaller-100.html), 2022
+        * "Marie-Catherine Schaller wusste schon in der Kindheit: Ich will nie Kinder bekommen. Die heute 35-Jährige Erfurterin hat ihre gewollte Kinderlosigkeit immer offen vertreten und dafür auch viel Gegenwind bekommen."
+
+
+* Die Studie und die Autorinnen sind auch Thema in dieser Doku aus dem Jahr 2024:
+    ["Frauen, die keine Mütter sein wollen - glücklich ohne Kind | MDR DOK"](https://www.youtube.com/watch?v=UfIxLjq73XE), 25 min,
+    überwiegend positive Youtube-Kommentare
+
+{{< youtube UfIxLjq73XE >}}
+
+
+### antinatalism.net - Introduction to Antinatalism 🇬🇧 {#a__antinatalism_net}
+
+https://antinatalism.net
+
+* Introduction to Antinatalism
+* Arguments Against Procreation
+    * I. **A Gamble With Another Life** - "No one can wish to be born but many wish they had never existed"
+    * II. **Guaranteed Harm, Unneeded Pleasure** - "For the child birth does not solve any problem that it does not first create"
+    * III. **Cause Of Harm To Other Beings** - "Eat or be eaten - a cruel game no one should be forced to play"
+* Frequently Asked Questions
+* Links & Resources
+    * Papers
+        * "Here’s not looking at you, kid: A new defence of anti-natalism",
+            "Hereth and Ferrucci evaluate a person’s right to physical security (RPS) in different cases and use it to arrive at what they call “the responsibility argument” against procreating"
+        * "Antinatalism and Moral Particularism",
+            "Harrison argues that procreative acts possess numerous features that, in other contexts, would be considered to make an action immoral. He finds no reason that this should be different for the act of procreation and so concludes that procreating is immoral as well."
+        * "On Risk-Based Arguments for Anti-natalism",
+            "1. It is impermissible to non-consensually impose a risk of catastrophic harm on others unless doing so is necessary to advance their essential interests. 2. ... 3. ..."
+    * Artikel
+        * Antinatalism and the Consent Argument
+        * **The ice cream salesmen cometh…**
+        * I like my life, therefore antinatalism is false!
+        * On Antinatalism and Depression
+
+Schwester-Seite https://antinatalism.info for a collection and summary of 50+ antinatalist papers.
+Übersicht: https://antinatalism.info/index-of-all-papers/
+
+* z. B. ["Antinatalism—Solving everything everywhere all at once?"](https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.13230), 2023
+
+
 ### Facebook-Gruppe: Positive Antinatalists 🇬🇧
 
 [**Positive Antinatalists** Facebook-Gruppe](https://www.facebook.com/groups/183599152661545/),

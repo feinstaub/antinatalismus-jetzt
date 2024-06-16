@@ -178,3 +178,8 @@ Missverständnisse https://www.stophavingkids.org/misconceptions:
 * "SHK is ecofascist"
 * "SHK is malthusian"
 * "SHK is not apolitical"
+
+
+## Auf antinatalism.net
+
+[antinatalism.net - Introduction to Antinatalism]({{< ref "/antinatalismus-ressourcen#a__antinatalism_net" >}})
