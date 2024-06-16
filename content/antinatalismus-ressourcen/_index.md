@@ -30,7 +30,7 @@ Englischsprachige Ressourcen sind mit "🇬🇧" gekennzeichnet.
 
 Empfehlenswerter Einstieg zum Antinatalismus:
 
-[Better Never to have been: The Harm of Coming into Existence](https://www.goodreads.com/book/show/660518.Better_Never_to_Have_Been)
+[Better Never to Have Been: The Harm of Coming into Existence](https://www.goodreads.com/book/show/660518.Better_Never_to_Have_Been)
 
 ![](images/cover-better-never-to-have-been.jpg)
 

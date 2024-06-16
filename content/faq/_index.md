@@ -58,15 +58,39 @@ wenn sie erst später davon erfahren haben.
 
 ## Aussterben {#a__aussterben}
 
+Eine absehbare Folge eines weitläufigen freiwilligen Fortpflanzungsverzichts ist das Aussterben der Menschheit.
+Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
+Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist.
+
 ![](images/colorvisualize.jpg)
 
 (Grafik von [Nina Paley](https://blog.ninapaley.com/), koloriert von Aaron Hackmann)
 
-* [Online-Buch: “Antinatalism, Extinction, and the End of Procreative Self-Corruption”, 2024]({{< ref "/antinatalismus-ressourcen#ref_sukenick_selfcorr_2024" >}})
-
 * Eine freundliche Perspektive auf das Aussterben: [VHEMT: “Mögen wir lange leben und aussterben”](https://www.vhemt.org/dindex.htm)
 
-* ...im Aufbau...
+* [Online-Buch: “Antinatalism, Extinction, and the End of Procreative Self-Corruption”, 2024]({{< ref "/antinatalismus-ressourcen#a__sukenick_selfcorr_2024" >}})
+
+
+## Keine (kurzfristige) Lösung für alles
+
+Uns ist es wichtig zu betonen, dass wir den Antinatalismus - also der freiwillige Verzicht auf (weitere) eigene Fortpflanzung - nicht
+als DIE Lösung für alle [Probleme]({{< ref "/liste-von-leid" >}}) ansehen. Vor allem nicht kurzfristig.
+Einerseits ist es korrekt, dass die konsequente Anwendung mittel- bis langfristig zum Ende all jener Probleme führt, die
+
+* die wir Menschen uns untereinander zufügen,
+* die wir Menschen z. B. durch Unfälle erleiden und
+* die wir Menschen den anderen Tieren der Welt zufügen.
+
+Andererseits treten wir dafür ein, die [vielen Probleme und Ungerechtigkeiten]({{< ref "/liste-von-leid" >}}),
+die im Hier und Jetzt bestehen, wahrzunehmen und nicht zu zögern, an deren Lösung zu arbeiten.
+
+Antinatalismus basiert auf Rationalität und Mitgefühl und in diesem Sinne sollten wir Menschen uns gegenseitig bestmöglich helfen.
+Sich dafür einsetzen, das Leben für uns und die anderen Tiere so gut wie möglich zu gestalten.
+Unrecht auf allen Ebenen erkennen und bekämpfen.
+
+Mit diesen Seiten möchten wir dazu beitragen, parallel dazu den Antinatalismus als selbstverständliche Idee in der Gesellschaft zu verankern.
+
+Siehe auch: ["Antinatalism—Solving everything everywhere all at once?"](https://onlinelibrary.wiley.com/doi/full/10.1111/bioe.13230), 2023.
 
 
 ## Gesellschaft

@@ -18,7 +18,7 @@ Eine Form des Antinatalismus spricht sich dafür aus, deutlich weniger neue Mens
 Darum geht es uns jedoch hier nur am Rande...
 
 
-## Ethischer Antinatalismus
+## Antinatalismus als Ergebnis ethischer Überlegungen
 
 ...Wir beschäftigen uns hier mit der **Philosophie, die aus ethischen Gründen fordert, keine neuen Menschen hervorzubringen.**
 
@@ -32,45 +32,19 @@ Dies ist auf dem [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Antinatalismu
     unveränderliche Konstante menschlichen Daseins, unabhängig davon, ob es sich um eine reiche oder eine arme Gesellschaft handelt.
     **Der moraltheoretische Antinatalismus möchte kommenden Generationen die Bürde der Existenz ersparen.**"
 
+Wie genau wird der Antinatalismus begründet und seine Gegenargumente widerlegt?
+Details dazu in den [Antinatalismus-Ressourcen]({{< ref "/antinatalismus-ressourcen" >}}).
 
-## Aussterben?
 
-Eine absehbare Folge eines weitläufigen freiwilligen Fortpflanzungsverzichts ist das Aussterben der Menschheit.
-Wir verstehen, dass dies möglicherweise zunächst absurd anmutet.
-[Wir erklären, warum sich dies schlimmer anhört als es eigentlich ist]({{< ref "/faq#a__aussterben" >}}).
-
-![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop2.jpg)
+<!--![](images/leaves_twig_branch_sky_blue_cloud_green_harmony-1358875-crop2.jpg)-->
 
 
 ## Hinschauen
 
 Uns ist bewusst, dass die Beschäftigung mit all dem [Leid in der Welt]({{< ref "/liste-von-leid" >}}) - insbesondere für empathische Menschen - sehr schmerzlich ist.
 Wir möchten jedoch jede:n ermutigen, sich diesem Leid nicht zu verschließen und offen hinzusehen.
-Dann ist viel leichter zu verstehen,
-warum Menschen in der antinatalistischen Position einen **wohlbegründeten und ernstzunehmenden Standpunkt** sehen.
-
-
-## Keine (kurzfristige) Lösung für alles
-
-Uns ist es wichtig zu betonen, dass wir den Antinatalismus - also der freiwillige Verzicht auf (weitere) eigene Fortpflanzung - nicht
-als DIE Lösung für alle [Probleme]({{< ref "/liste-von-leid" >}}) ansehen. Vor allem nicht kurzfristig.
-Einerseits ist es korrekt, dass die konsequente Anwendung mittel- bis langfristig zum Ende all jener Probleme führt, die
-
-* die wir Menschen uns untereinander zufügen,
-* die wir Menschen z. B. durch Unfälle erleiden und
-* die wir Menschen den anderen Tieren der Welt zufügen.
-
-
-## Handeln
-
-Andererseits treten wir dafür ein, die [vielen Probleme und Ungerechtigkeiten]({{< ref "/liste-von-leid" >}}),
-die im Hier und Jetzt bestehen,
-wahrzunehmen und nicht zu zögern, an deren Lösung zu arbeiten.
-Antinatalismus basiert auf Rationalität und Mitgefühl und in diesem Sinne sollten wir Menschen uns gegenseitig bestmöglich helfen.
-Sich dafür einsetzen, das Leben für uns und die anderen Tiere so gut wie möglich zu gestalten.
-Unrecht auf allen Ebenen erkennen und bekämpfen.
-
-Mit diesen Seiten möchten wir dazu beitragen, Antinatalismus als selbstverständliche Idee in der Gesellschaft zu verankern.
+Aus dieser Perspektive ist es leichter verständlich, warum Menschen in der antinatalistischen Position
+einen **wohlbegründeten und ernstzunehmenden Standpunkt** sehen.
 
 
 Weiter mit:
@@ -81,4 +55,4 @@ Weiter mit:
 * [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
 * [Liste mit Ungerechtigkeiten]({{< ref "/liste-von-leid" >}})
 
-"Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."
+**"Außer in Notwehr darf niemand so handeln, dass ein Mensch infolge dieser Handlung stirbt."**
