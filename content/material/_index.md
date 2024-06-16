@@ -115,7 +115,7 @@ Zusammenstellung aus:
 * [Häufige Fragen (FAQ)]({{< ref "/faq" >}})
 
 
-### Zur Freude/Leid-Asymmetrie
+**Zur Freude/Leid-Asymmetrie**
 
 {{< hint info >}}
 Vielleicht mal anders gefragt:
@@ -126,7 +126,7 @@ Was ist besser: a) oder b)?
 {{< /hint >}}
 
 
-### "Die Zeiten waren nie besser, vor allem in Deutschland"
+**"Die Zeiten waren nie besser, vor allem in Deutschland"**
 {{< hint info >}}
 Ich stimme dir zu, dass sich einige Dinge in der Welt und hierzulande verbessert haben. Das Rauchverbot in Restaurants, etc.
 Daneben gibt es auch Dinge, die sich verschlechtert haben oder einfach noch nicht gut genug sind:
@@ -139,9 +139,16 @@ SINUS-Jugendstudie 2024: “Die 14- bis 17-Jährigen sind besorgter denn je”.
 {{< /hint >}}
 
 
+**Der nächste Diktator**
+{{< hint info >}}
+Was ist, wenn dein Kind der nächste rechtsextreme Parteiführer einer Partei wird,
+die vom Verfassungsschutz als gesichert rechtsextrem eingeschätzt wird?
+{{< /hint >}}
+
+
 ## Zitate aus religiösen Schriften
 
-### Christentum / Die Bibel
+**Christentum / Die Bibel**
 
 * https://bible.knowing-jesus.com/Deutsch/Prediger/4/1
     * Prediger 4:1:

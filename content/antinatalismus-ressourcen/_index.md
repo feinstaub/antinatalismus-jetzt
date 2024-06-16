@@ -179,6 +179,11 @@ Stellt unter anderem den Antinatalisten Karim Akerma vor.
 
 18-Minuten-Version: [Sterilisation mit 22: Der Traum vom kinderlosen Leben | Y-Kollektiv](https://www.youtube.com/watch?v=U_gjM3Hca9E)
 
+* Artikel über die Doku: ["Warum manche keine Kinder wollen: ARD-Reportage zur Antinatalisten-Bewegung"](https://www.rnd.de/medien/kein-kinderwunsch-ard-reportage-zur-antinatalisten-bewegung-JHHFUE73BRCLDNU6XRJQNCZHDA.html), 2022
+    * "Freiwillige Sterilisation ist nicht einfach zu haben."
+    * "Immerhin: Ein Verein setzt sich inzwischen für die Belange von Sterilisationswilligen ein.":
+        [Selbstbestimmt steril e. V.](https://www.selbstbestimmt-steril.de)
+
 
 ### Weitere
 
