@@ -116,10 +116,10 @@ Die Menschen sind kreativ und wenn genug Menschen die Idee der freiwilligen Kind
 
 ### 🔹 Seid ihr für Abtreibung?
 
-* Das Thema [Schwangerschaftsabbruch](https://de.wikipedia.org/wiki/Schwangerschaftsabbruch) ist ein komplexes Thema,
-    das es wert ist, ausführlich besprochen zu werden.
-    Antinatalismus setzt einen Schritt früher an: freiwillig auf die eigene Fortpflanzung zu verzichten.
-    Da gibt es keine moralischen Dilemma.
+* Die Frage ist nicht pauschal zu beantworten, da verschiedene Aspekte abzuwägen sind;
+    siehe zum Beispiel die Ausführungen hier: [Schwangerschaftsabbruch](https://de.wikipedia.org/wiki/Schwangerschaftsabbruch).
+    Antinatalismus setzt allerdings einen Schritt früher an:
+    Wer freiwillig auf die eigene Fortpflanzung verzichtet, kommt in kein moralisches Dilemma.
 * Siehe auch [Ist VHEMT für Abtreibung?](https://www.vhemt.org/dbiobreed.htm#abortion)
 
 
