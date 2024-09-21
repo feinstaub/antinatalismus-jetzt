@@ -8,16 +8,11 @@ type = 'docs'
 
 ## Kontakt
 
-Das Team Deutschland ist im Aufbau.
+Du uns direkt per [E-Mail](mailto:antinat@posteo.de).
 
-Vorläufig erreichst du uns per [E-Mail](mailto:antinat@posteo.de).
-
-Schreib uns gerne für alle Fragen, die die Webseite nicht beantworten konnte.
 
 ![](https://c.pxhere.com/photos/94/82/dock_feet_footwear_jetty_mat_shoes_sign_sneakers-1173337.jpg!d)
 
-
-## Technisch
 
 {{< details "Bildquellen" >}}
 
@@ -39,8 +34,3 @@ https://pxhere.com/en/photo/1173337 - Welcome on Board
 
 {{< /details >}}
 
-
-### Webseite
-
-Gemacht mit [Hugo](https://gohugo.io/) mit
-[Book Theme](https://themes.gohugo.io/themes/hugo-book/).
