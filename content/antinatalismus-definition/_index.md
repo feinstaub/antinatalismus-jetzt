@@ -15,12 +15,16 @@ Allgemein werden als Antinatalismus Positionen bezeichnet, die sich für die **f
 Nachlesen kann man dies z. B. im [Antinatalismus-Wikipedia-Artikel](https://de.wikipedia.org/wiki/Antinatalismus).
 
 Eine Form des Antinatalismus spricht sich dafür aus, deutlich weniger neue Menschen hervorzubringen.
-Darum geht es uns jedoch hier nur am Rande...
+Darum geht es uns jedoch hier nur am Rande.
 
 
 ## Antinatalismus als Ergebnis ethischer Überlegungen
 
-...Wir beschäftigen uns hier mit der **Philosophie, die aus ethischen Gründen fordert, keine neuen Menschen hervorzubringen.**
+Wir beschäftigen uns hier mit der **Philosophie, die aus ethischen Gründen fordert, keine neuen Menschen hervorzubringen.**
+
+{{< youtube l88ugDhM_OI >}}
+
+("David Benatar: Antinatalism in a nutshell", 2 min, 2020)
 
 Dies ist auf dem [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Antinatalismus:) dazu zu finden:
 
